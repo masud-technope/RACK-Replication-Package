@@ -1,6 +1,6 @@
 RACK-Replication-Package
 ====================================================
-Replication package of RACK--Query Reformulation for Code Search using Crowdsourced Knowledge
+Replication package of RACK: Automatic Query Reformulation for Code Search using Crowdsourced Knowledge
 
 
 Abstract
@@ -17,8 +17,8 @@ Accepted Papers (2)
 -----------------------------------------
 ```
 M. Masudur Rahman, C. K. Roy and David Lo, "RACK: Automatic API Recommendation using Crowdsourced Knowledge", 
-In Proceeding of The 23rd IEEE International Conference on Software Analysis, Evolution, and Reengineering (SANER 2016), 
-pp. 349--359, Osaka, Japan, March 2016
+In Proceeding of The 23rd IEEE International Conference on Software Analysis, Evolution, and Reengineering 
+(SANER 2016), pp. 349--359, Osaka, Japan, March 2016
 ```
 ```
 M. Masudur Rahman and C. K. Roy and David Lo, "RACK: Code Search in the IDE using Crowdsourced Knowledge", 
@@ -37,7 +37,7 @@ Materials Included
 - ```sample-queries``` for RACK
 - ```sample-output``` produced by RACK
 
-**Experimental Dataset**
+**Experimental Dataset, Queries & Results**
 
 - ```EMSE2018-Dataset``` contains experimental data reported on EMSE 2018
    - ```NL Queries & Oracle```: 175 natural language queries & ground truth.
