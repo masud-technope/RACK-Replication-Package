@@ -13,15 +13,30 @@ Experiments using 175 code search queries randomly chosen from three Java tutori
 Reformulations using our suggested API classes improve 64% of the natural language queries and their overall accuracy improves by 19%.
 Comparisons with three state-of-the-art techniques demonstrate that RACK outperforms them in the query reformulation by a statistically significant margin. Investigation using three web/code search engines shows that our technique can significantly improve their results in the context of code search.
 
-Accepted Papers
+Accepted Papers (2)
 -----------------------------------------
 ```
-- M. Masudur Rahman, C.K. Roy and David Lo, "RACK: Automatic API Recommendation using Crowdsourced Knowledge", 
+M. Masudur Rahman, C. K. Roy and David Lo, "RACK: Automatic API Recommendation using Crowdsourced Knowledge", 
 In Proceeding of The 23rd IEEE International Conference on Software Analysis, Evolution, and Reengineering (SANER 2016), 
 pp. 349--359, Osaka, Japan, March 2016
-- M. Masudur Rahman and C.K. Roy and David Lo, "RACK: Code Search in the IDE using Crowdsourced Knowledge", 
+```
+```
+M. Masudur Rahman and C. K. Roy and David Lo, "RACK: Code Search in the IDE using Crowdsourced Knowledge", 
 In Proceeding of The 39th International Conference on Software Engineering (ICSE 2017), 
 pp. 51--54, Buenos Aires, Argentina, May, 2017
 ```
+
+Materials Included
+----------------------------------------
+-- ```rack-exec``` is the functional prototype of RACK, the proposed query reformulation technique.
+-- ```database``` contains the keyword--API database constructed from 344K Java related questions and answers of Stack Overflow.
+-- ```models``` contains the trained models needed for POS tagging by Stanford POS tagger.
+-- ```stopword``` contains the stop words used by RACK
+-- ```EMSE2018-Dataset```
+
+
+
+
+
 
 
