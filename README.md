@@ -28,19 +28,19 @@ pp. 51--54, Buenos Aires, Argentina, May, 2017
 
 Materials Included
 ----------------------------------------
-**Installation & Run**
+**Tool Installation & Run**
 
-- ```rack-exec``` is the functional prototype of RACK, the proposed query reformulation technique. We also include a ```rack-running-snapshot``` for RACK.
-- ```database``` contains the keyword--API database constructed from 344K Java related questions and answers of Stack Overflow.
-- ```models``` contains the trained models needed for POS tagging by Stanford POS tagger.
-- ```stopword``` contains the stop words used by RACK
+- ```rack-exec``` is the functional prototype of RACK, our proposed query reformulation technique. We also include ```rack-running-snapshot``` for RACK.
+- ```database/``` contains the keyword--API database constructed from 344K Java related questions and answers of Stack Overflow.
+- ```models/``` contains the trained models needed for POS tagging by Stanford POS tagger.
+- ```stopword/``` contains the stop words used by RACK
 - ```sample-queries``` for RACK
 - ```sample-output``` produced by RACK
 
-**Experimental Dataset, Queries & Results**
+**Experimental Dataset: Queries & Results**
 
 - ```EMSE2018-Dataset``` contains experimental data reported on EMSE 2018
-   - ```NL Queries & Oracle```: 175 natural language queries & ground truth.
+   - ```NL Queries & Oracle```: 175 natural language queries & corresponding ground truth.
    - ```RACK-Suggested-API-Classes```: 175 natural language queries and API classes suggested by RACK
    - ```RACK-Suggested-API-Classes-KAC```: API classes suggested by RACK when only KAC heuristic is used.
    - ```RACK-Suggested-API-Classes-KKC```: API classes suggested by RACK when only KKC heuristic is used.		
@@ -49,7 +49,7 @@ Materials Included
    - ```RACK-Suggested-API-Classes-VB```: API classes suggested by RACK when only verb keywords are used.
 - ```SANER2016-Dataset``` contains experimental results for 150 queries, published in SANER 2016
 
-** License & Others**
+**License & Others**
 
 - ```README```
 - ```LICENSE```
