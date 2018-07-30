@@ -16,8 +16,12 @@ Comparisons with three state-of-the-art techniques demonstrate that RACK outperf
 Accepted Papers
 -----------------------------------------
 ```
-- M. Masudur Rahman, C.K. Roy and David Lo, "RACK: Automatic API Recommendation using Crowdsourced Knowledge", In Proceeding of The 23rd IEEE International Conference on Software Analysis, Evolution, and Reengineering (SANER 2016), pp. 349--359, Osaka, Japan, March 2016
-- M. Masudur Rahman and C.K. Roy and David Lo, " RACK: Code Search in the IDE using Crowdsourced Knowledge", In Proceeding of The 39th International Conference on Software Engineering (ICSE 2017), pp. 51--54, Buenos Aires, Argentina, May, 2017
+- M. Masudur Rahman, C.K. Roy and David Lo, "RACK: Automatic API Recommendation using Crowdsourced Knowledge", 
+In Proceeding of The 23rd IEEE International Conference on Software Analysis, Evolution, and Reengineering (SANER 2016), 
+pp. 349--359, Osaka, Japan, March 2016
+- M. Masudur Rahman and C.K. Roy and David Lo, "RACK: Code Search in the IDE using Crowdsourced Knowledge", 
+In Proceeding of The 39th International Conference on Software Engineering (ICSE 2017), 
+pp. 51--54, Buenos Aires, Argentina, May, 2017
 ```
 
 
