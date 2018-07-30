@@ -1,0 +1,350 @@
+insert	element	array	posit	
+ArrayList	Object	Map	Arrays	Collections	HashMap	
+compress	zip	directori	
+InputStream	FileOutputStream	IOException	File	FileInputStream	Files	
+decompress	gzip	file	java	
+File	IOException	InputStream	FileOutputStream	ArrayList	GZIPInputStream	ByteArrayInputStream	GZIPOutputStream	OutputStream	ByteArrayOutputStream	
+compress	file	gzip	format	
+File	InputStream	FileOutputStream	IOException	GZIPInputStream	GZIPOutputStream	ByteArrayInputStream	OutputStream	ByteArrayOutputStream	FileInputStream	
+priorityblockingqueu	class	
+
+pars	text	string	date	time	
+ArrayList	SimpleDateFormat	Pattern	Object	IOException	File	Map	Calendar	DateFormat	DateTimeFormatter	
+document	repres	mongodb	java	driver	
+Object	File	Class	BasicDBObject	DBObject	IOException	Test	ArrayList	Map	
+connect	mongodb	databas	
+SQLException	Connection	Driver	Class	DriverManager	Object	
+send	html	email	
+InputStream	IOException	File	Message	MimeMessage	Content	Session	
+read	charact	file	
+InputStreamReader	InputStream	BufferedReader	ArrayList	IOException	FileInputStream	FileReader	File	
+creat	mysql	databas	java	
+Class	ArrayList	Object	SQLException	Statement	Connection	Driver	PreparedStatement	ResultSet	DriverManager	
+generat	md5	digest	file	inputstream	object	
+IOException	File	ArrayList	Object	Map	Test	Class	Arrays	InputStreamReader	InputStream	
+calcul	md5	digest	string	
+ArrayList	SimpleDateFormat	HashMap	Object	Map	
+clone	array	variabl	
+ArrayList	Object	Class	HashMap	IOException	Map	Foo	Arrays	Collections	
+implement	hashcod	equal	method	apach	common	
+Object	ArrayList	HashMap	Map	Set	Arrays	IOException	Class	Collection	File	
+establish	connect	databas	properti	
+Class	Connection	DriverManager	InputStream	IOException	SQLException	Driver	ArrayList	Object	Context	
+monitor	file	directori	
+IOException	File	InputStream	FileOutputStream	ArrayList	Files	FileInputStream	
+move	file	jdk	
+ArrayList	File	Files	
+creat	delet	file	jdk	
+ArrayList	IOException	File	Object	Class	Files	
+list	text	file	directori	
+ArrayList	IOException	File	BufferedReader	InputStream	FileOutputStream	Files	FileInputStream	
+verifi	signatur	sign	data	
+Object	Signature	ArrayList	Class	InputStream	IOException	File	Collection	Base	Certificate	
+creat	signatur	sign	data	
+ArrayList	Object	IOException	File	Class	Map	HashMap	Signature	InputStream	
+generat	public	key	
+ArrayList	Object	Map	
+copi	file	jdk	
+Files	InputStream	FileOutputStream	ArrayList	IOException	File	FileInputStream	Object	Arrays	
+set	file	attribut	
+ArrayList	File	Object	Map	
+set	file	time	
+ArrayList	File	Object	
+revers	order	array	element	
+ArrayList	Arrays	Collections	Map	Object	Set	HashMap	Comparator	Iterator	IOException	
+send	http	post	request	
+Content	InputStream	IOException	HttpServletRequest	HttpResponse	HttpServletResponse	HttpClient	DefaultHttpClient	BufferedReader	
+respons	bodi	string	
+Object	InputStream	Content	MediaType	IOException	
+entiti	contenttyp	httpclient	
+HttpEntity	
+execut	http	request	
+InputStream	IOException	HttpServletRequest	Content	HttpServletResponse	HttpResponse	BufferedReader	
+key	jpa	entiti	
+Entity	EntityManager	User	JoinColumn	Table	Column	OneToMany	ManyToOne	Object	
+delet	entiti	object	jpa	
+OneToMany	Object	Entity	User	Table	ManyToOne	EntityManager	JoinColumn	Column	CascadeType	
+currenc	code	
+
+host	default	timezon	id	
+DateTimeZone	
+creat	xml	file	pojo	jaxb	
+File	ArrayList	IOException	Object	XmlRootElement	XmlElement	JAXBContext	Class	Map	
+compar	date	
+Calendar	ArrayList	
+chang	date	format	symbol	
+Object	Locale	File	NumberFormat	Calendar	DateFormat	ParseException	SimpleDateFormat	ArrayList	
+retriev	schema	databas	
+Object	ArrayList	ResultSet	Class	IOException	File	
+call	store	procedur	return	result	set	
+Object	Map	ArrayList	IOException	File	Test	Class	HashMap	JFrame	Set	
+convert	ip	address	string	
+ArrayList	Object	HashMap	Class	Arrays	Map	SimpleDateFormat	IOException	Pattern	Matcher	
+creat	port	scanner	program	
+IOException	ArrayList	File	BufferedReader	JFrame	Object	Scanner	Enter	
+mac	address	host	
+InetSocketAddress	IOException	InetAddress	
+creat	socket	communic	
+IOException	BufferedReader	ServerSocket	Socket	ArrayList	Object	
+read	download	webpag	content	
+InputStream	IOException	File	Content	ArrayList	Object	URLConnection	Document	
+ip	address	localhost	
+InetSocketAddress	IOException	InetAddress	
+secur	provid	
+IOException	
+creat	string	password	
+HashMap	Test	ArrayList	Object	Class	Map	IOException	Arrays	
+break	paragraph	sentenc	
+ArrayList	Matcher	Pattern	BufferedReader	IOException	
+chang	date	format	symbol	local	
+Object	Locale	File	NumberFormat	DateFormat	SimpleDateFormat	ArrayList	Test	IOException	Calendar	
+chang	number	format	symbol	
+Object	DecimalFormat	Locale	File	NumberFormat	Pattern	Matcher	ArrayList	
+pars	number	local	
+ArrayList	IOException	SimpleDateFormat	File	Pattern	Object	
+iter	subset	string	
+ArrayList	Arrays	Map	HashMap	Object	Set	Collection	Collections	
+attribut	element	sax	pars	
+Element	ArrayList	Map	File	XmlRootElement	Object	Document	
+jdbc	driver	properti	inform	
+Class	SQLException	Statement	Connection	ResultSet	Driver	DriverManager	DataSource	Object	
+function	support	databas	
+ArrayList	Object	Class	Java	IOException	Map	
+data	type	support	databas	
+ArrayList	Object	Class	Map	Set	HashMap	InputStream	IOException	File	Foo	
+execut	store	procedur	
+Object	Class	IOException	File	Map	
+print	file	default	regist	applic	
+ArrayList	IOException	File	Object	InputStream	JFrame	Class	Application	Configuration	
+turn	num	lock	button	
+JFrame	Object	Class	IOException	
+creat	subscript	itext	
+ArrayList	IOException	
+delet	file	ftp	server	
+IOException	File	InputStream	InputStreamReader	BufferedReader	ArrayList	OutputStream	FileOutputStream	FileInputStream	
+list	file	ftp	server	
+InputStream	IOException	File	ArrayList	InputStreamReader	BufferedReader	OutputStream	FileOutputStream	FileInputStream	
+upload	file	ftp	server	
+InputStream	IOException	File	OutputStream	FileInputStream	InputStreamReader	BufferedReader	FileOutputStream	
+creat	excel	document	apach	poi	
+File	IOException	FileOutputStream	Row	Cell	Sheet	FileInputStream	Object	XSSFWorkbook	Workbook	
+draw	triangl	java	
+JFrame	Graphics	Color	Dimension	Point	
+screenshot	save	imag	java	
+IOException	File	BufferedImage	ImageIO	JFrame	ArrayList	Graphics	
+load	resourc	bundl	
+InputStream	Class	Object	File	IOException	FileInputStream	
+instanti	class	runtim	call	object	method	
+ArrayList	Test	Object	Class	Map	Foo	MyClass	Method	IOException	HashMap	
+invok	method	object	reflect	
+Test	Foo	ArrayList	Class	Object	Arrays	Map	HashMap	MyClass	Method	
+list	method	class	reflect	
+ArrayList	Class	Object	Map	MyClass	Test	Foo	HashMap	Arrays	Set	
+redirect	servlet	call	url	
+IOException	HttpServletRequest	HttpServletResponse	InputStream	HttpURLConnection	RequestMapping	ServletException	Filter	
+set	session	variabl	servlet	
+Set	Object	Map	HashMap	ArrayList	HttpServletRequest	HttpServletResponse	IOException	
+request	paramet	servlet	
+HttpServletRequest	InputStream	HttpServletResponse	IOException	Map	
+connect	databas	read	tabl	
+ArrayList	Object	SQLException	Connection	Driver	Class	DriverManager	ResultSet	InputStream	IOException	
+creat	lucen	index	
+HashMap	ArrayList	Object	Map	
+build	lucen	search	queri	
+Object	Map	Query	ArrayList	File	
+lucen	search	
+Query	
+read	json	data	object	model	
+ArrayList	Object	IOException	Map	HashMap	Class	Set	InputStream	File	User	
+serial	json	object	
+HashMap	ArrayList	Object	IOException	Map	ObjectMapper	
+execut	test	case	runner	
+Test	Object	Class	ArrayList	File	RunWith	Arrays	
+java	compar	file	content	
+ArrayList	IOException	File	Object	Map	InputStream	JFrame	HashMap	Arrays	
+java	add	comment	xml	
+File	Object	JFrame	ArrayList	Document	Test	Class	IOException	
+xml	add	data	
+File	ArrayList	Object	
+creat	file	lock	
+IOException	File	ArrayList	Object	Class	
+token	java	sourc	code	
+ArrayList	Object	IOException	Test	Class	File	Map	Java	HashMap	
+visit	element	dom	document	
+Element	Object	DocumentBuilderFactory	TransformerFactory	DocumentBuilder	Node	Document	File	
+xml	remov	attribut	
+File	XmlRootElement	Element	Document	ArrayList	Object	Map	
+xml	fetch	data	web	
+File	Object	IOException	InputStream	Set	User	HashMap	ArrayList	Class	Document	
+render	html	save	imag	
+IOException	File	BufferedImage	ImageIO	InputStream	ArrayList	Graphics	JPanel	JFrame	JLabel	
+move	imag	screen	
+Graphics	JPanel	JFrame	File	Color	Dimension	
+load	font	ttf	file	
+InputStream	IOException	File	FileInputStream	Object	Color	Arial	Font	Class	
+creat	server	socket	
+IOException	File	InputStreamReader	InputStream	OutputStream	BufferedReader	ServerSocket	Socket	
+sort	map	valu	
+Set	HashMap	ArrayList	Object	Collections	Map	Class	Arrays	TreeMap	
+store	properti	xml	file	
+File	ArrayList	IOException	FileInputStream	InputStream	Object	Class	Map	FileOutputStream	
+pass	paramet	java	code	script	
+Test	Object	Class	HashMap	ArrayList	Map	IOException	File	Java	Arrays	
+creat	view	imag	
+JPanel	JFrame	IOException	File	Object	
+captur	imag	webcam	java	
+IOException	File	JFrame	Test	ArrayList	Object	Map	BufferedImage	
+java	graphic	rotat	shape	
+JFrame	Graphics	JPanel	Color	Dimension	BufferedImage	SwingUtilities	
+load	imag	write	text	
+IOException	File	JPanel	JFrame	JLabel	BufferedImage	ImageIO	ArrayList	InputStream	Object	
+pars	xml	file	sax	
+File	Element	Document	ArrayList	IOException	
+add	attribut	element	
+ArrayList	Object	XmlRootElement	Element	Map	
+add	text	node	element	
+ArrayList	Object	JPanel	JFrame	ActionEvent	Color	JLabel	Element	File	
+creat	comment	node	xml	
+File	Document	Object	DocumentBuilderFactory	DocumentBuilder	Node	Element	NodeList	Test	Class	
+chang	element	xpath	
+Object	
+stax	parser	
+
+serial	json	object	
+HashMap	ArrayList	Object	IOException	Map	ObjectMapper	
+read	json	array	
+ArrayList	Object	IOException	Scanner	HashMap	Map	
+search	html	xml	comment	
+File	Document	Element	ArrayList	Node	Test	IOException	Pattern	Object	
+hashmap	properti	jaxb	
+Object	ArrayList	Map	
+creat	web	base	file	upload	
+IOException	File	ArrayList	Object	InputStream	HashMap	Class	Map	HttpServletRequest	FileInputStream	
+shear	shape	
+
+transform	ellips	
+
+write	text	imag	
+IOException	File	JPanel	JFrame	JLabel	ArrayList	
+chang	text	color	css	label	
+JPanel	JFrame	Color	JLabel	ActionEvent	SwingUtilities	UIManager	Object	Graphics	ActionListener	
+draw	text	content	imag	
+JPanel	JFrame	IOException	File	JLabel	ArrayList	Graphics	BufferedImage	Color	
+java	mail	pop3	client	
+Object	IOException	
+java	mail	secur	pop3	client	
+IOException	Object	
+email	header	
+Content	
+add	extra	page	exist	pdf	
+ArrayList	Object	FileOutputStream	IOException	File	JPanel	BorderLayout	JFrame	
+annot	pdf	document	
+IOException	Document	File	Object	
+ad	awt	imag	pdf	color	
+Graphics	JPanel	JFrame	BufferedImage	JLabel	IOException	File	Color	SwingUtilities	
+ad	paragraph	pdf	page	
+FileOutputStream	IOException	Document	ArrayList	
+add	watermark	imag	exist	pdf	file	
+IOException	File	FileOutputStream	ArrayList	JPanel	JFrame	JLabel	Object	Files	InputStream	
+ad	bookmark	pdf	document	
+IOException	Document	File	Object	
+copi	past	data	clipboard	
+Object	IOException	InputStream	ArrayList	File	Clipboard	DataFlavor	
+connect	web	server	
+InputStream	IOException	Connection	Socket	File	Context	
+connect	rshell	daemon	
+
+connect	rlogin	daemon	
+
+post	data	http	server	
+InputStream	IOException	HttpServletRequest	Content	HttpClient	HttpResponse	DefaultHttpClient	File	ArrayList	
+session	request	
+HttpServletRequest	HttpServletResponse	Map	
+ad	drop	shadow	shape	
+JPanel	JFrame	Graphics	Color	Dimension	BufferedImage	
+serial	perform	copi	clone	
+ArrayList	Object	IOException	Arrays	File	HashMap	Map	Serializable	
+execut	javascript	script	file	
+IOException	Object	InputStreamReader	BufferedReader	File	InputStream	Test	Class	Main	Java	
+list	script	engin	
+IOException	Set	ArrayList	Object	Class	
+pass	paramet	javascript	java	code	
+Object	HashMap	Test	ArrayList	Class	Map	IOException	Arrays	File	Java	
+java	object	javascript	
+Object	IOException	Arrays	HashMap	Test	ArrayList	Class	Map	
+read	execut	script	sourc	file	
+IOException	File	InputStream	InputStreamReader	BufferedReader	Object	ArrayList	Test	Class	FileInputStream	
+dsa	pair	generat	xml	signatur	
+ArrayList	Object	Map	File	Class	Arrays	Signature	
+determin	oper	system	support	attribut	view	
+Object	File	Class	IOException	ArrayList	Map	Test	Set	InputStream	
+chang	label	border	css	smart	gwt	
+JPanel	JFrame	Color	JLabel	ActionListener	ActionEvent	SwingUtilities	Graphics	Element	UIManager	
+servlet	session	bind	listen	
+Object	HttpServletRequest	HttpServletResponse	ActionEvent	Map	
+authent	jsp	page	
+ArrayList	HttpServletRequest	User	IOException	
+check	read	write	permiss	directori	
+ArrayList	File	IOException	Object	InputStream	FileOutputStream	FileInputStream	
+list	permiss	grant	load	class	
+Object	File	Class	ArrayList	Set	Map	AccessController	Djava	FilePermission	
+generat	dsa	signatur	
+ArrayList	Object	Class	Map	Signature	
+sign	java	object	
+ArrayList	Object	IOException	HashMap	Test	Class	Arrays	Map	File	
+generat	messag	authent	code	mac	
+File	ArrayList	IOException	Object	Map	Test	Class	Java	
+execut	command	code	
+Test	IOException	File	Object	Class	InputStreamReader	InputStream	BufferedReader	Main	Java	
+simul	mous	click	
+JPanel	MouseEvent	JFrame	MouseAdapter	SwingUtilities	ActionEvent	JButton	
+extract	file	zip	
+InputStream	IOException	File	ArrayList	FileOutputStream	Files	FileInputStream	
+extract	file	crc32	checksum	
+InputStream	ArrayList	IOException	File	BufferedReader	FileInputStream	
+extract	zip	file	adler32	checksum	
+InputStream	IOException	File	FileInputStream	ArrayList	FileOutputStream	Files	BufferedReader	
+load	html	file	applet	context	
+File	InputStream	IOException	FileInputStream	Class	Object	ArrayList	
+set	orient	print	job	
+File	ArrayList	Object	IOException	JPanel	Set	JFrame	Color	
+determin	format	imag	
+File	IOException	Test	Object	
+compress	jpeg	file	
+InputStream	FileOutputStream	File	ByteArrayOutputStream	IOException	FileInputStream	
+midi	file	properti	
+InputStream	ArrayList	IOException	File	FileInputStream	
+play	midi	audio	
+AudioSystem	File	
+list	servic	
+Object	Class	
+byte	generat	key	
+ArrayList	Object	Map	IOException	File	
+import	packag	script	
+Java	Class	File	Import	Main	Object	
+script	engin	detail	
+IOException	Object	Set	ArrayList	
+send	notif	attribut	chang	
+Object	File	
+javafx	creat	sprite	anim	
+JPanel	ActionEvent	JFrame	Graphics	ArrayList	
+memori	map	file	matrix	
+ArrayList	Object	Map	IOException	HashMap	Class	File	
+github	api	access	java	
+IOException	ArrayList	Object	Class	File	Map	InputStream	HashMap	Test	
+write	object	file	java	
+ArrayList	IOException	File	Object	InputStream	FileOutputStream	HashMap	Test	Class	Arrays	
+send	http	request	serial	object	
+IOException	Content	InputStream	Map	HttpServletRequest	HttpServletResponse	HttpResponse	BufferedReader	HashMap	ArrayList	
+richtext	editor	compon	swt	base	applic	
+Object	JFrame	ArrayList	Class	IOException	JPanel	JButton	Component	File	
+pars	javascript	code	mozilla	rhino	
+IOException	Object	Context	Java	ArrayList	File	Map	ScriptEngineManager	ScriptEngine	JavaScript	
+dom	pars	java	
+File	Element	Document	ArrayList	IOException	Map	
+block	text	input	express	matcher	
+ArrayList	Object	BufferedReader	IOException	Test	Pattern	ActionEvent	Map	Matcher	Class	
+http	respons	header	java	
+IOException	Content	Object	HttpServletRequest	Response	InputStream	HttpServletResponse	JFrame	
+convert	object	xml	
+HashMap	ArrayList	Object	Class	IOException	Arrays	Map	File	

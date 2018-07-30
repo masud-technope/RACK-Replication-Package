@@ -1,0 +1,300 @@
+insert	element	array	posit	
+List	Arrays	Runnable	PreparedStatement	SwingUtilities	BorderLayout	Connection	Element	Array	Map	
+compress	zip	directori	
+File	ZipEntry	FileOutputStream	ZipOutputStream	ByteArrayOutputStream	Files	InputStream	Path	List	
+decompress	gzip	file	java	
+InputStream	File	FileOutputStream	List	Map	BufferedReader	Runnable	
+compress	file	gzip	format	
+File	InputStream	ByteArrayOutputStream	FileOutputStream	SimpleDateFormat	Date	Locale	BufferedReader	DecimalFormat	
+priorityblockingqueu	class	
+List	PriorityBlockingQueue	MyClass	Comparable	Map	InterruptedException	Runnable	
+pars	text	string	date	time	
+Date	List	SimpleDateFormat	Calendar	File	Runnable	Pattern	Document	BufferedReader	DateTime	
+document	repres	mongodb	java	driver	
+List	File	Document	Driver	ObjectId	MongoClient	DriverManager	Map	DocumentBuilderFactory	Connection	
+connect	mongodb	databas	
+Connection	DriverManager	List	ObjectId	ResultSet	MongoClient	DataSource	Driver	Mongo	Socket	
+send	html	email	
+Message	Document	Session	Content	Jsoup	InputStream	Element	Elements	Properties	OutputStream	
+read	charact	file	
+File	InputStream	BufferedReader	Character	Pattern	InputStreamReader	StringBuilder	Matcher	FileOutputStream	
+creat	mysql	databas	java	
+List	ResultSet	Connection	File	PreparedStatement	Map	DriverManager	Driver	Runnable	
+generat	md5	digest	file	inputstream	object	
+InputStream	List	HashMap	MessageDigest	File	Digester	BigInteger	Random	InputStreamReader	Response	
+calcul	md5	digest	string	
+List	MessageDigest	Math	Digester	HashMap	Calendar	BigInteger	Pattern	InputStream	Date	
+clone	array	variabl	
+ArrayList	Cloneable	Arrays	Map	CloneNotSupportedException	Runnable	Array	Serializable	
+implement	hashcod	equal	method	apach	common	
+List	Map	File	HashSet	Arrays	Method	FileInputStream	Runnable	Thread	FileOutputStream	
+establish	connect	databas	properti	
+Connection	DriverManager	List	Properties	ResultSet	Map	DataSource	Accept	InputStream	Driver	
+monitor	file	directori	
+File	InputStream	GraphicsDevice	GraphicsEnvironment	Files	Thread	Path	Runnable	FileOutputStream	BufferedReader	
+move	file	jdk	
+File	Java	Graphics	Math	InputStream	Files	ActionEvent	Program	Runnable	Library	
+creat	delet	file	jdk	
+File	List	Java	InputStream	Files	Program	Map	Library	Set	FileOutputStream	
+list	text	file	directori	
+File	List	InputStream	Files	Runnable	BufferedReader	Map	Path	Collections	FileOutputStream	
+verifi	signatur	sign	data	
+List	Signature	Map	X509Certificate	KeyStore	Mockito	Java	InputStream	Comparable	WebElement	
+creat	signatur	sign	data	
+List	Map	X509Certificate	Signature	KeyStore	File	Java	InputStream	Comparable	Runnable	
+generat	public	key	
+List	Map	PublicKey	KeyFactory	Random	File	KeyEvent	Math	
+copi	file	jdk	
+File	InputStream	ArrayList	Java	Files	FileOutputStream	Program	Library	BufferedReader	
+set	file	attribut	
+List	File	Set	InputStream	XmlAttribute	Element	FileOutputStream	Map	BufferedReader	
+set	file	time	
+File	Date	Set	SimpleDateFormat	InputStream	List	Calendar	DateTime	FileOutputStream	Map	
+revers	order	array	element	
+List	Arrays	Collections	StringBuilder	Comparator	Element	Array	Map	
+send	http	post	request	
+Content	Type	InputStream	HttpServletRequest	Message	RequestMapping	List	HttpPost	OutputStream	HttpClient	
+respons	bodi	string	
+List	InputStream	Response	Body	Pattern	Content	Type	StringBuilder	Matcher	
+entiti	contenttyp	httpclient	
+HttpServletResponse	HttpClient	Entity	MediaType	List	User	HttpResponse	EnsureJsonIsUtf8ResponseFilter	DataHandler	Long	
+execut	http	request	
+Content	HttpServletRequest	Thread	Type	Runnable	RequestMapping	Runtime	InputStream	HttpClient	Process	
+key	jpa	entiti	
+List	Entity	Map	EntityManager	User	KeyEvent	Long	Column	OneToMany	
+delet	entiti	object	jpa	
+List	Entity	File	EntityManager	User	Map	Long	Column	Set	OneToMany	
+currenc	code	
+Locale	List	NumberFormat	Runnable	Currency	DecimalFormat	File	BigDecimal	Thread	
+host	default	timezon	
+Date	TimeZone	List	InetAddress	Host	Map	SimpleDateFormat	Context	Calendar	Connection	
+creat	xml	file	pojo	jaxb	
+List	File	Document	Map	XmlRootElement	InputStream	ObjectMapper	XmlElement	User	XmlAccessorType	
+compar	date	
+Date	Comparable	SimpleDateFormat	Comparator	Calendar	List	Collections	Locale	
+chang	date	format	symbol	
+SimpleDateFormat	Date	Color	Pattern	Runnable	List	Locale	Calendar	ActionEvent	Matcher	
+retriev	schema	databas	
+List	ResultSet	Connection	Schema	Map	File	DriverManager	SchemaFactory	XmlRootElement	PreparedStatement	
+call	store	procedur	return	result	set	
+List	Map	ResultSet	CallableStatement	Thread	Runnable	File	Connection	Query	Method	
+convert	address	string	
+List	InetAddress	NetworkInterface	Date	Pattern	SimpleDateFormat	StringBuilder	Map	Matcher	HttpServletRequest	
+creat	port	scanner	program	
+File	Thread	Scanner	ServerSocket	List	Runtime	InetSocketAddress	Runnable	Enter	Map	
+mac	address	host	
+InetAddress	Library	NetworkInterface	Host	Java	Context	Contents	Home	Connection	List	
+creat	socket	communic	
+Socket	Thread	List	Runnable	File	InputStream	Activity	Map	BufferedReader	
+read	download	webpag	content	
+InputStream	File	Document	List	Content	BufferedReader	Jsoup	InputStreamReader	WebView	FileOutputStream	
+address	localhost	
+InetAddress	Driver	NetworkInterface	Caused	List	ClassNotFoundException	HttpServletRequest	
+secur	provid	
+Provider	Authentication	Context	HttpServletRequest	UserDetailsService	Inject	User	List	UserDetails	InputStream	
+creat	string	password	
+List	Password	SecureRandom	Pattern	MessageDigest	File	Map	SecretKeyFactory	StringBuilder	Runnable	
+break	paragraph	sentenc	
+ArrayList	Pattern	Paragraph	Chunk	Matcher	Document	Runnable	Scanner	
+chang	date	format	symbol	local	
+SimpleDateFormat	Date	Locale	Color	Pattern	Runnable	List	File	Calendar	ActionEvent	
+chang	number	format	symbol	
+List	SimpleDateFormat	Color	Pattern	Runnable	Math	Date	Locale	ActionEvent	Matcher	
+pars	number	local	
+List	SimpleDateFormat	Date	Locale	Math	Document	Number	File	TimeZone	Random	
+iter	subset	string	
+List	Iterator	Pattern	Set	Iterable	StringBuilder	Arrays	Map	Matcher	
+attribut	element	sax	pars	
+List	Element	Attributes	SimpleDateFormat	InputSource	XmlAttribute	DefaultHandler	Date	Document	Arrays	
+jdbc	driver	properti	inform	
+List	Connection	DriverManager	Map	Driver	ResultSet	Properties	PreparedStatement	File	InputStream	
+function	support	databas	
+List	Connection	ResultSet	Function	Java	DriverManager	Runnable	File	PreparedStatement	InputStream	
+data	type	support	databas	
+List	Map	Connection	ResultSet	File	Java	DriverManager	Type	PreparedStatement	InputStream	
+execut	store	procedur	
+List	CallableStatement	Thread	ResultSet	Runnable	Map	Runtime	Connection	Query	Process	
+print	file	default	regist	applic	
+List	File	Runnable	Thread	Map	InputStream	Configuration	Arrays	Date	Application	
+turn	num	lock	button	
+Button	Example	List	Thread	Lock	ActionEvent	Context	Entity	Runnable	ActionListener	
+creat	subscript	itext	
+List	PdfWriter	Document	Observable	AddActionListener	File	FileOutputStream	Map	PdfReader	Runnable	
+delet	file	ftp	server	
+File	InputStream	Socket	List	Thread	FileOutputStream	Set	Server	BufferedReader	CascadeType	
+list	file	ftp	server	
+InputStream	File	Socket	List	Map	FileOutputStream	Thread	Collections	Server	BufferedReader	
+upload	file	ftp	server	
+InputStream	File	Socket	HttpServletRequest	Thread	FileOutputStream	Content	Server	BufferedReader	
+creat	excel	document	apach	poi	
+File	Cell	List	Row	Sheet	Document	Workbook	FileOutputStream	DocumentBuilderFactory	FileInputStream	
+draw	triangl	java	
+Graphics	Math	List	Color	File	Runnable	Dimension	Point	Triangle	Map	
+screenshot	save	imag	java	
+File	BufferedImage	List	FileOutputStream	Robot	ImageIcon	Map	Toolkit	Runnable	Graphics	
+load	resourc	bundl	
+File	InputStream	Bundle	ClassLoader	Resource	Import	Package	Thread	Path	List	
+instanti	class	runtim	call	object	method	
+List	Map	Thread	Runtime	MyClass	Process	Method	Runnable	File	Constructor	
+invok	method	object	reflect	
+List	Method	Map	Thread	Field	IllegalAccessException	Date	
+list	method	class	reflect	
+List	Method	Map	Field	MyClass	Collections	Thread	IllegalAccessException	Runnable	Arrays	
+redirect	servlet	call	url	
+HttpServletRequest	HttpServletResponse	Thread	InputStream	List	Runnable	Location	ServletException	File	HttpServlet	
+set	session	variabl	servlet	
+List	HttpServletRequest	Map	HttpSession	Set	HttpServletResponse	ServletException	Runnable	HttpServlet	User	
+request	paramet	servlet	
+HttpServletRequest	List	Map	RequestMapping	HttpServletResponse	ServletException	Content	Method	HttpServlet	ServletContext	
+connect	databas	read	tabl	
+Connection	DriverManager	List	File	Table	ResultSet	BufferedReader	InputStream	DataSource	Entity	
+creat	lucen	index	
+List	Map	Version	Query	StandardAnalyzer	File	Term	Runnable	Arrays	
+build	lucen	search	queri	
+List	Query	Build	Version	Java	ResultSet	StandardAnalyzer	HashMap	Path	Term	
+lucen	search	
+Version	List	Query	StandardAnalyzer	HashMap	Node	Term	
+read	json	data	object	model	
+List	Map	File	BufferedReader	Model	Gson	ObjectMapper	InputStream	InputStreamReader	Date	
+serial	json	object	
+List	Map	Serializable	Gson	ObjectOutputStream	ObjectMapper	ObjectInputStream	Date	
+execut	test	case	runner	
+RunWith	List	Thread	Map	Runnable	Before	Arrays	Collection	Runtime	Parameters	
+java	compar	file	content	
+List	File	InputStream	Comparable	Comparator	Collections	Map	FileOutputStream	BufferedReader	Runnable	
+java	add	comment	xml	
+List	File	Document	Comment	Pattern	Runnable	ActionEvent	Javadoc	Map	Element	
+xml	add	data	
+List	Document	File	Map	Runnable	ActionEvent	Element	DocumentBuilderFactory	Color	
+creat	file	lock	
+File	List	Thread	InputStream	Lock	Runnable	Map	FileOutputStream	BufferedReader	InterruptedException	
+token	java	sourc	code	
+List	File	Java	StringTokenizer	Runnable	Map	Pattern	Source	Matcher	Thread	
+visit	element	dom	document	
+Document	Element	List	CompositeMove	Book	File	DocumentBuilderFactory	Before	Node	Arrays	
+xml	remov	attribut	
+List	Document	Element	File	XmlAttribute	Iterator	Set	Map	DocumentBuilderFactory	Arrays	
+xml	fetch	data	web	
+List	File	Document	InputStream	HashMap	HttpServletRequest	ServletContext	Element	Long	DocumentBuilderFactory	
+render	html	save	imag	
+File	BufferedImage	Document	Component	Color	Jsoup	FileOutputStream	List	Runnable	Graphics	
+move	imag	screen	
+Graphics	Runnable	BufferedImage	File	Math	Color	Dimension	ActionEvent	ImageIcon	View	
+load	font	ttf	file	
+File	Font	InputStream	ClassLoader	Color	Bold	GraphicsEnvironment	BoldItalic	Runnable	Thread	
+creat	server	socket	
+Socket	InputStream	List	Thread	File	Map	Server	BufferedReader	Runnable	
+sort	map	valu	
+List	Map	Comparator	Collections	Entry	Arrays	
+store	properti	xml	file	
+List	File	InputStream	Map	Document	Properties	FileOutputStream	Element	Value	DocumentBuilderFactory	
+pass	paramet	java	code	script	
+List	Map	File	Runnable	Runtime	Process	Method	ProcessBuilder	BufferedReader	Intent	
+creat	view	imag	
+File	View	BufferedImage	List	LinearLayout	ImageIcon	Map	Context	ViewGroup	Runnable	
+captur	imag	webcam	java	
+BufferedImage	File	List	Pattern	Matcher	IplImage	Thread	ImageIcon	Map	Webcam	
+java	graphic	rotat	shape	
+Graphics	Color	Math	List	AffineTransform	Runnable	Shape	File	Dimension	Map	
+load	imag	write	text	
+File	List	BufferedImage	ClassLoader	Runnable	FileOutputStream	InputStream	FileWriter	ImageIcon	BufferedReader	
+pars	xml	file	sax	
+File	List	Document	Attributes	SimpleDateFormat	InputStream	InputSource	DefaultHandler	Date	FileOutputStream	
+add	attribut	element	
+List	Element	XmlAttribute	Runnable	ActionEvent	Arrays	Map	Color	
+add	text	node	element	
+List	Runnable	Element	File	Node	Document	Arrays	ActionEvent	BufferedReader	Color	
+creat	comment	node	xml	
+File	Document	List	Comment	Node	Element	Pattern	Map	Javadoc	DocumentBuilderFactory	
+chang	element	xpath	
+Document	Color	List	Runnable	ActionEvent	Node	Element	ActionListener	DocumentBuilderFactory	Arrays	
+stax	parser	
+FileInputStream	Document	Element	List	FileReader	File	Node	
+serial	json	object	
+List	Map	Serializable	Gson	ObjectOutputStream	ObjectMapper	ObjectInputStream	Date	
+read	json	array	
+List	File	Arrays	BufferedReader	Gson	ObjectMapper	Map	InputStream	InputStreamReader	Array	
+search	html	xml	comment	
+Document	File	List	Comment	Element	Pattern	Jsoup	HashMap	Javadoc	Node	
+hashmap	properti	jaxb	
+List	Map	XmlRootElement	Properties	XmlElement	XmlAccessorType	InputStream	XmlAccessType	Entry	Value	
+creat	web	base	file	upload	
+File	InputStream	List	HttpServletRequest	Map	Comparator	Content	ServletContext	FileOutputStream	Collections	
+shear	shape	
+Color	Graphics	Shape	Math	Runnable	
+transform	ellips	
+List	AffineTransform	TransformerFactory	Dimension	Graphics	StreamResult	Math	Transformer	Function	Rectangle	
+write	text	imag	
+File	BufferedImage	List	Runnable	FileOutputStream	FileWriter	ImageIcon	BufferedReader	Graphics	Color	
+chang	text	color	css	label	
+Runnable	Color	List	File	Label	Element	ActionEvent	Document	SwingUtilities	Graphics	
+draw	text	content	imag	
+File	List	Runnable	BufferedImage	Graphics	Color	Dimension	ImageIcon	BufferedReader	InputStream	
+java	mail	pop3	client	
+Session	Properties	Message	List	Client	Socket	File	InputStream	PasswordAuthentication	Map	
+java	mail	secur	pop3	client	
+Session	Properties	Message	Authentication	List	Client	Socket	HttpServletRequest	File	InputStream	
+email	header	
+Session	List	Content	MimeMessage	Component	TableCellRenderer	Properties	Header	InternetAddress	
+add	extra	page	exist	pdf	
+List	File	HttpServletRequest	FileOutputStream	HttpServletResponse	PdfWriter	Document	Intent	Runnable	Map	
+annot	pdf	document	
+File	Document	Retention	FileOutputStream	RetentionPolicy	List	PdfWriter	DocumentBuilderFactory	Target	Element	
+awt	imag	pdf	color	
+Color	File	Graphics	Runnable	BufferedImage	FileOutputStream	PdfWriter	ImageIcon	Document	SwingUtilities	
+paragraph	pdf	page	
+Document	FileOutputStream	HttpServletRequest	Paragraph	File	Chunk	HttpServletResponse	List	PdfWriter	ServletException	
+add	watermark	imag	exist	pdf	file	
+File	FileOutputStream	List	Document	InputStream	BufferedImage	PdfWriter	Runnable	ImageIcon	Map	
+bookmark	pdf	document	
+File	Document	HashMap	FileOutputStream	Kids	PdfWriter	DocumentBuilderFactory	Fit	Development	Element	
+copi	past	data	clipboard	
+List	Clipboard	DataFlavor	DefaultEditorKit	File	Toolkit	Map	Transferable	FileOutputStream	CopyAction	
+connect	web	server	
+InputStream	Socket	Connection	File	DriverManager	HttpServletRequest	DataSource	Thread	Server	Driver	
+connect	rshell	daemon	
+Thread	Connection	Runnable	DriverManager	DataSource	Executors	Driver	ExecutorService	Socket	ThreadFactory	
+connect	rlogin	daemon	
+Thread	Connection	Runnable	DriverManager	DataSource	Executors	Driver	ExecutorService	Socket	ThreadFactory	
+post	data	http	server	
+Content	Type	InputStream	List	Socket	HttpPost	Map	Thread	Server	HttpClient	
+session	request	
+HttpServletRequest	HttpSession	RequestMapping	Map	Content	List	User	
+drop	shadow	shape	
+Color	Graphics	DataFlavor	TransferHandler	BufferedImage	Transferable	Shape	AlphaComposite	Math	List	
+serial	perform	copi	clone	
+List	Serializable	Cloneable	ObjectOutputStream	File	CloneNotSupportedException	StringBuilder	ObjectInputStream	FileOutputStream	Thread	
+execut	javascript	script	file	
+File	Runtime	Process	Thread	JavaScript	Runnable	InputStream	ScriptEngineManager	ScriptEngine	ProcessBuilder	
+list	script	engin	
+List	Runtime	HttpServletRequest	Process	Query	Map	File	Collections	ProcessBuilder	HttpServletResponse	
+pass	paramet	javascript	java	code	
+List	Map	Runnable	File	JavaScript	ScriptEngineManager	ScriptEngine	Method	Intent	Date	
+java	object	javascript	
+List	Map	JavaScript	ScriptEngineManager	File	ScriptEngine	Date	Runnable	
+read	execut	script	sourc	file	
+File	Runtime	InputStream	Process	BufferedReader	Java	Thread	Runnable	List	InputStreamReader	
+dsa	pair	generat	xml	signatur	
+List	Map	Document	File	Array	BigInteger	Signature	Random	Convert	Pair	
+determin	oper	system	support	attribut	view	
+List	File	PrintStream	View	XmlAttribute	Map	Runtime	LinearLayout	Math	Java	
+chang	label	border	css	smart	gwt	
+Color	List	Runnable	Date	Label	Window	Element	BorderFactory	ActionEvent	Document	
+servlet	session	bind	listen	
+HttpServletRequest	HttpSession	ActionEvent	List	ActionListener	Map	HttpServletResponse	Runnable	ServletException	KeyStroke	
+authent	jsp	page	
+HttpServletRequest	List	HttpServletResponse	Authentication	User	ServletException	Authorization	Map	Document	
+check	read	write	permiss	directori	
+File	List	InputStream	Djava	BufferedReader	Files	FileOutputStream	Permissions	Path	FileWriter	
+list	permiss	grant	load	class	
+File	List	Djava	Map	AccessController	ClassLoader	CodeSource	InputStream	Permissions	MyClass	
+generat	dsa	signatur	
+List	Array	BigInteger	Signature	Random	Map	Convert	Math	Comparable	Copy	
+sign	java	object	
+List	Map	X509Certificate	KeyStore	File	Java	InputStream	Date	Runnable	
+generat	messag	authent	code	mac	
+List	Runnable	Message	HttpServletRequest	Library	Authentication	Java	Random	User	File	
+execut	command	code	
+Runtime	Runnable	Process	Thread	List	File	ProcessBuilder	BufferedReader	InputStreamReader	
+simul	mous	click	
+MouseEvent	ActionEvent	KeyEvent	Runnable	Math	Point	View	Robot	MouseAdapter	ActionListener	

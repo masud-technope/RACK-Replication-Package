@@ -1,0 +1,300 @@
+insert	element	array	posit	
+ArrayList	Arrays	
+compress	zip	directori	
+File	FileOutputStream	InputStream	
+decompress	gzip	file	java	
+File	InputStream	FileOutputStream	
+compress	file	gzip	format	
+File	InputStream	FileOutputStream	ByteArrayOutputStream	
+priorityblockingqueu	class	
+
+pars	text	string	date	time	
+List	SimpleDateFormat	Date	Calendar	
+document	repres	mongodb	java	driver	
+List	Date	File	
+connect	mongodb	databas	
+Connection	DriverManager	List	
+send	html	email	
+Message	
+read	charact	file	
+FileInputStream	BufferedReader	File	InputStreamReader	
+creat	mysql	databas	java	
+List	ResultSet	PreparedStatement	Connection	DriverManager	Map	File	Runnable	
+generat	md5	digest	file	inputstream	object	
+File	ArrayList	FileInputStream	MessageDigest	
+calcul	md5	digest	string	
+ArrayList	MessageDigest	
+clone	array	variabl	
+ArrayList	Map	
+implement	hashcod	equal	method	apach	common	
+List	Map	File	HashSet	Arrays	
+establish	connect	databas	properti	
+Connection	DriverManager	List	
+monitor	file	directori	
+File	InputStream	
+move	file	jdk	
+
+creat	delet	file	jdk	
+File	List	
+list	text	file	directori	
+File	List	BufferedReader	InputStream	
+verifi	signatur	sign	data	
+List	Signature	Map	
+creat	signatur	sign	data	
+List	Map	File	
+generat	public	key	
+List	Map	File	
+copi	file	jdk	
+File	InputStream	FileOutputStream	List	
+set	file	attribut	
+Map	ArrayList	
+set	file	time	
+
+revers	order	array	element	
+ArrayList	Arrays	Map	Collections	
+send	http	post	request	
+Content	List	HttpResponse	Type	InputStream	
+respons	bodi	string	
+List	InputStream	Content	
+entiti	contenttyp	httpclient	
+
+execut	http	request	
+Content	
+key	jpa	entiti	
+List	EntityManager	Entity	
+delet	entiti	object	jpa	
+List	EntityManager	Entity	
+currenc	code	
+
+host	default	timezon	
+Date	
+creat	xml	file	pojo	jaxb	
+List	File	Map	
+compar	date	
+
+chang	date	format	symbol	
+SimpleDateFormat	Date	Locale	
+retriev	schema	databas	
+List	ResultSet	
+call	store	procedur	return	result	set	
+List	Map	File	ResultSet	
+convert	address	string	
+List	
+creat	port	scanner	program	
+File	Runnable	Thread	
+mac	address	host	
+InetAddress	
+creat	socket	communic	
+Socket	BufferedReader	Thread	Runnable	
+read	download	webpag	content	
+InputStream	File	Content	
+address	localhost	
+InetAddress	
+secur	provid	
+
+creat	string	password	
+ArrayList	
+break	paragraph	sentenc	
+Pattern	ArrayList	Matcher	
+chang	date	format	symbol	local	
+SimpleDateFormat	Date	Locale	File	
+chang	number	format	symbol	
+ArrayList	
+pars	number	local	
+SimpleDateFormat	Date	ArrayList	
+iter	subset	string	
+ArrayList	
+attribut	element	sax	pars	
+ArrayList	Element	
+jdbc	driver	properti	inform	
+Driver	ResultSet	Connection	DriverManager	Map	List	
+function	support	databas	
+List	
+data	type	support	databas	
+List	Map	File	
+execut	store	procedur	
+File	List	
+print	file	default	regist	applic	
+List	File	Runnable	Application	
+turn	num	lock	button	
+Runnable	
+creat	subscript	itext	
+
+delet	file	ftp	server	
+InputStream	File	BufferedReader	
+list	file	ftp	server	
+InputStream	BufferedReader	
+upload	file	ftp	server	
+InputStream	File	BufferedReader	
+creat	excel	document	apach	poi	
+File	List	Sheet	Cell	Row	Workbook	FileOutputStream	
+draw	triangl	java	
+Graphics	Runnable	
+screenshot	save	imag	java	
+File	BufferedImage	ArrayList	
+load	resourc	bundl	
+File	ClassLoader	InputStream	
+instanti	class	runtim	call	object	method	
+List	Map	Method	Thread	Runnable	MyClass	
+invok	method	object	reflect	
+Map	List	Method	Thread	
+list	method	class	reflect	
+Map	List	Method	
+redirect	servlet	call	url	
+HttpServletRequest	HttpServletResponse	RequestMapping	
+set	session	variabl	servlet	
+Map	ArrayList	HttpServletRequest	
+request	paramet	servlet	
+HttpServletRequest	Map	List	
+connect	databas	read	tabl	
+Connection	DriverManager	List	
+creat	lucen	index	
+Map	ArrayList	
+build	lucen	search	queri	
+List	Query	
+lucen	search	
+
+read	json	data	object	model	
+Map	ArrayList	File	
+serial	json	object	
+List	ObjectMapper	Map	
+execut	test	case	runner	
+ArrayList	
+java	compar	file	content	
+File	ArrayList	InputStream	
+java	add	comment	xml	
+List	File	Runnable	
+xml	add	data	
+List	File	
+creat	file	lock	
+File	Runnable	
+token	java	sourc	code	
+ArrayList	File	Runnable	
+visit	element	dom	document	
+Element	List	Document	DocumentBuilderFactory	
+xml	remov	attribut	
+List	Element	
+xml	fetch	data	web	
+List	File	HashMap	Document	
+render	html	save	imag	
+File	BufferedImage	Graphics	List	
+move	imag	screen	
+Graphics	Runnable	Dimension	
+load	font	ttf	file	
+File	InputStream	
+creat	server	socket	
+Socket	BufferedReader	InputStream	Thread	
+sort	map	valu	
+ArrayList	Map	Arrays	
+store	properti	xml	file	
+List	File	InputStream	Map	
+pass	paramet	java	code	script	
+ArrayList	Runnable	Map	File	
+creat	view	imag	
+File	
+captur	imag	webcam	java	
+File	
+java	graphic	rotat	shape	
+Graphics	Color	Runnable	Math	BufferedImage	
+load	imag	write	text	
+File	List	
+pars	xml	file	sax	
+Document	List	File	
+add	attribut	element	
+ArrayList	Element	
+add	text	node	element	
+List	Runnable	Color	Element	
+creat	comment	node	xml	
+File	List	Document	DocumentBuilderFactory	Element	
+chang	element	xpath	
+
+stax	parser	
+File	Element	
+serial	json	object	
+List	ObjectMapper	Map	
+read	json	array	
+Map	ArrayList	
+search	html	xml	comment	
+File	Document	Element	List	
+hashmap	properti	jaxb	
+List	Map	
+creat	web	base	file	upload	
+File	List	InputStream	Map	HttpServletRequest	
+shear	shape	
+
+transform	ellips	
+
+write	text	imag	
+File	List	
+chang	text	color	css	label	
+Runnable	Color	ActionEvent	SwingUtilities	List	
+draw	text	content	imag	
+File	List	Graphics	BufferedImage	Runnable	Color	
+java	mail	pop3	client	
+
+java	mail	secur	pop3	client	
+
+email	header	
+
+add	extra	page	exist	pdf	
+List	Document	File	
+annot	pdf	document	
+Document	File	List	
+awt	imag	pdf	color	
+Graphics	BufferedImage	File	Runnable	Color	
+paragraph	pdf	page	
+Document	
+add	watermark	imag	exist	pdf	file	
+File	ArrayList	InputStream	FileOutputStream	
+bookmark	pdf	document	
+Document	File	
+copi	past	data	clipboard	
+List	File	DataFlavor	Clipboard	
+connect	web	server	
+Socket	InputStream	
+connect	rshell	daemon	
+
+connect	rlogin	daemon	
+
+post	data	http	server	
+HttpResponse	Type	Content	InputStream	List	
+session	request	
+Map	HttpServletRequest	
+drop	shadow	shape	
+
+serial	perform	copi	clone	
+List	Serializable	
+execut	javascript	script	file	
+File	Runtime	Process	BufferedReader	
+list	script	engin	
+List	
+pass	paramet	javascript	java	code	
+List	Runnable	Map	File	
+java	object	javascript	
+List	Map	Date	
+read	execut	script	sourc	file	
+File	BufferedReader	FileInputStream	Runtime	Process	
+dsa	pair	generat	xml	signatur	
+List	File	Map	
+determin	oper	system	support	attribut	view	
+ArrayList	File	Map	
+chang	label	border	css	smart	gwt	
+Runnable	Color	ActionEvent	SwingUtilities	List	
+servlet	session	bind	listen	
+HttpServletRequest	Map	
+authent	jsp	page	
+HttpServletRequest	ServletException	List	HttpServletResponse	
+check	read	write	permiss	directori	
+File	List	InputStream	
+list	permiss	grant	load	class	
+List	File	Map	Djava	AccessController	
+generat	dsa	signatur	
+List	
+sign	java	object	
+List	Map	
+generat	messag	authent	code	mac	
+ArrayList	File	Runnable	Thread	
+execut	command	code	
+Runtime	Process	Runnable	File	Thread	
+simul	mous	click	
+Runnable	MouseEvent	

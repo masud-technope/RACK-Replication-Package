@@ -1,0 +1,350 @@
+insert	
+PreparedStatement	Connection	Statement	Object	ArrayList	ResultSet	HashMap	Map	SQLException	File	
+compress	zip	
+File	Zip	Deflater	ZipInputStream	ZipParameters	FileOutputStream	Failed	IOException	ZipEntry	DeflaterOutputStream	
+decompress	
+GZIPInputStream	InputStream	OutputStream	FileInputStream	FileOutputStream	InflaterInputStream	ByteArrayOutputStream	ByteArrayInputStream	File	GZIPOutputStream	
+compress	
+File	ByteArrayOutputStream	FileOutputStream	IOException	InputStream	GZIPOutputStream	FileInputStream	OutputStream	ByteArrayInputStream	GZIPInputStream	
+
+
+pars	
+SimpleDateFormat	Document	JSONObject	ArrayList	Map	Pattern	Element	IOException	Gson	File	
+repres	
+ArrayList	BigDecimal	Map	Class	Object	File	Set	Test	BigInteger	SimpleDateFormat	
+connect	
+Connection	DriverManager	IOException	SQLException	DataSource	Driver	Socket	Class	InputStream	Context	
+send	
+IOException	Content	Message	InputStream	OutputStream	Socket	File	Session	BufferedReader	MimeMessage	
+read	
+File	IOException	BufferedReader	InputStream	InputStreamReader	FileInputStream	Scanner	ArrayList	FileReader	Object	
+creat	
+ArrayList	Object	File	Class	Map	IOException	HashMap	Test	JFrame	JPanel	
+digest	
+Digester	HashMap	IOException	Map	Response	MessageDigest	SAXException	Base	File	Object	
+calcul	digest	
+SecretKeySpec	Mac	Calendar	Digester	Init	HashMap	ArrayList	IOException	BigInteger	HmacSHA	
+
+
+implement	equal	
+Object	Comparator	Map	Set	Collection	ArrayList	HashSet	HashMap	User	Class	
+establish	
+Connection	DriverManager	IOException	Accept	BufferedReader	Class	Context	Database	InputStream	InputStreamReader	
+monitor	
+GraphicsDevice	GraphicsEnvironment	Object	Rectangle	Dimension	Point	Toolkit	File	GraphicsConfiguration	IOException	
+move	
+JFrame	Graphics	JPanel	ActionEvent	Dimension	File	ActionListener	Timer	ArrayList	Color	
+creat	delet	
+File	Files	Created	FileOutputStream	ArrayList	FileWriter	Path	Object	IOException	Container	
+list	
+ArrayList	Object	Map	Collections	Arrays	LinkedList	HashMap	Set	Comparator	Class	
+verifi	sign	
+Signature	DigestAlgorithmIdentifier	DevxuijMCIQCAEPGqHsF	Crypt	ContentInfo	Object	CmrzkW	Certificate	Test	CIHra	
+creat	
+ArrayList	Object	File	Class	Map	IOException	HashMap	Test	JFrame	JPanel	
+generat	
+Random	ArrayList	Object	XMLSchema	File	IOException	Map	Class	Test	Arrays	
+copi	
+ArrayList	Object	File	FileOutputStream	IOException	InputStream	Arrays	FileInputStream	Copy	Files	
+set	
+Set	Object	JFrame	ArrayList	HashSet	Map	Color	JPanel	File	HashMap	
+set	
+Set	Object	JFrame	ArrayList	HashSet	Map	Color	JPanel	File	HashMap	
+revers	
+ArrayList	Collections	Arrays	Node	Map	Set	HashMap	Comparator	IOException	Iterator	
+send	
+IOException	Content	Message	InputStream	OutputStream	Socket	File	Session	BufferedReader	MimeMessage	
+
+
+
+
+execut	
+Object	Class	File	Main	IOException	Test	InputStream	BufferedReader	Executors	InputStreamReader	
+
+
+delet	
+File	ArrayList	Object	Set	CascadeType	IOException	Delete	ActionEvent	Iterator	OneToMany	
+
+
+
+
+creat	
+ArrayList	Object	File	Class	Map	IOException	HashMap	Test	JFrame	JPanel	
+compar	
+Comparator	Object	Collections	ArrayList	Arrays	Map	Set	HashSet	HashMap	Calendar	
+chang	
+Color	JFrame	Object	JPanel	ActionEvent	JLabel	JButton	ActionListener	UIManager	SwingUtilities	
+retriev	
+Object	ArrayList	Map	Class	HashMap	ResultSet	InputStream	File	IOException	Iterator	
+call	store	return	set	
+Object	Map	HashMap	Set	CallableStatement	ArrayList	HttpServletRequest	Class	Connection	IOException	
+convert	
+ArrayList	SimpleDateFormat	Object	Map	Arrays	File	IOException	HashMap	Class	BufferedImage	
+creat	
+ArrayList	Object	File	Class	Map	IOException	HashMap	Test	JFrame	JPanel	
+
+
+creat	
+ArrayList	Object	File	Class	Map	IOException	HashMap	Test	JFrame	JPanel	
+read	
+File	IOException	BufferedReader	InputStream	InputStreamReader	FileInputStream	Scanner	ArrayList	FileReader	Object	
+
+
+
+
+creat	
+ArrayList	Object	File	Class	Map	IOException	HashMap	Test	JFrame	JPanel	
+break	
+ArrayList	IOException	Object	BufferedReader	File	JFrame	Pattern	Test	Class	FileReader	
+chang	
+Color	JFrame	Object	JPanel	ActionEvent	JLabel	JButton	ActionListener	UIManager	SwingUtilities	
+chang	
+Color	JFrame	Object	JPanel	ActionEvent	JLabel	JButton	ActionListener	UIManager	SwingUtilities	
+pars	
+SimpleDateFormat	Document	JSONObject	ArrayList	Map	Pattern	Element	IOException	Gson	File	
+iter	
+Iterator	ArrayList	Object	Map	Collection	HashMap	Set	Arrays	ConcurrentModificationException	Collections	
+pars	
+SimpleDateFormat	Document	JSONObject	ArrayList	Map	Pattern	Element	IOException	Gson	File	
+
+
+support	
+Object	Class	ArrayList	Java	File	InputStream	IOException	Map	RequestMapping	Foo	
+support	
+Object	Class	ArrayList	Java	File	InputStream	IOException	Map	RequestMapping	Foo	
+execut	store	
+Object	Java	Image	HashMap	GroovyShell	File	Graphics	IOException	Class	GameCharacter	
+print	regist	
+Object	ArrayList	Class	JFrame	Arrays	JPanel	File	Configuration	IOException	Scanner	
+turn	
+Object	Context	ArrayList	JFrame	BufferedImage	Graphics	Class	IOException	JOptionPane	Arrays	
+creat	
+ArrayList	Object	File	Class	Map	IOException	HashMap	Test	JFrame	JPanel	
+delet	
+File	ArrayList	Object	Set	CascadeType	IOException	Delete	ActionEvent	Iterator	OneToMany	
+
+
+upload	
+File	InputStream	IOException	HttpServletRequest	Content	FileInputStream	Upload	OutputStream	ServletFileUpload	FileItem	
+creat	
+ArrayList	Object	File	Class	Map	IOException	HashMap	Test	JFrame	JPanel	
+draw	
+Graphics	Color	JPanel	JFrame	Dimension	BufferedImage	Point	SwingUtilities	Canvas	JComponent	
+save	
+File	FileOutputStream	IOException	ArrayList	ImageIO	BufferedImage	InputStream	Serializable	ObjectOutputStream	FileInputStream	
+
+
+call	
+Object	Class	ArrayList	Test	Method	IOException	JFrame	Map	Foo	Java	
+invok	
+Object	Method	Class	Test	ArrayList	Map	MyClass	Arrays	Foo	IOException	
+
+
+redirect	call	
+SimpleResult	Result	Promise	MyString	IOException	Location	Object	Http	HttpServletRequest	Class	
+set	
+Set	Object	JFrame	ArrayList	HashSet	Map	Color	JPanel	File	HashMap	
+
+
+connect	read	
+ResultSet	Driver	InputStream	Connection	IOException	Class	ChannelFuture	File	DriverManager	Channel	
+creat	
+ArrayList	Object	File	Class	Map	IOException	HashMap	Test	JFrame	JPanel	
+build	
+Class	Build	Java	Main	Path	Object	File	Map	XMLSchema	Project	
+
+
+read	
+File	IOException	BufferedReader	InputStream	InputStreamReader	FileInputStream	Scanner	ArrayList	FileReader	Object	
+serial	
+IOException	Serializable	Object	ObjectOutputStream	ObjectInputStream	ObjectMapper	Map	ArrayList	JsonSerializer	HashMap	
+execut	
+Object	Class	File	Main	IOException	Test	InputStream	BufferedReader	Executors	InputStreamReader	
+compar	
+Comparator	Object	Collections	ArrayList	Arrays	Map	Set	HashSet	HashMap	Calendar	
+add	
+ArrayList	JFrame	JPanel	Object	JButton	ActionEvent	JLabel	Color	BorderLayout	ActionListener	
+add	
+ArrayList	JFrame	JPanel	Object	JButton	ActionEvent	JLabel	Color	BorderLayout	ActionListener	
+creat	
+ArrayList	Object	File	Class	Map	IOException	HashMap	Test	JFrame	JPanel	
+token	
+StringTokenizer	ArrayList	IOException	Pattern	Matcher	Object	Token	Map	StringReader	BufferedReader	
+
+
+remov	
+ArrayList	Object	Iterator	Set	Arrays	HashSet	Map	JFrame	JPanel	File	
+fetch	
+ArrayList	Object	Document	HashMap	IOException	User	Class	Set	Connection	Criteria	
+render	save	
+OutputStream	Object	FileOutputStream	File	JTable	IOException	BufferedOutputStream	Component	ArrayList	Graphics	
+move	
+JFrame	Graphics	JPanel	ActionEvent	Dimension	File	ActionListener	Timer	ArrayList	Color	
+
+
+creat	
+ArrayList	Object	File	Class	Map	IOException	HashMap	Test	JFrame	JPanel	
+sort	
+Comparator	Collections	ArrayList	Arrays	Map	Object	TreeMap	HashMap	TreeSet	Set	
+
+
+pass	
+Object	Class	ArrayList	Map	Intent	Test	Bundle	Arrays	HashMap	IOException	
+creat	
+ArrayList	Object	File	Class	Map	IOException	HashMap	Test	JFrame	JPanel	
+captur	
+Pattern	Matcher	File	Object	Bitmap	IOException	ArrayList	Environment	Map	Test	
+rotat	shape	
+Graphics	Color	AffineTransform	Dimension	JFrame	JPanel	Point	RenderingHints	BufferedImage	Shape	
+write	
+File	IOException	FileOutputStream	FileWriter	Object	OutputStream	BufferedWriter	InputStream	ArrayList	PrintWriter	
+pars	file	
+File	ArrayList	IOException	Document	Map	FileReader	SimpleDateFormat	InputStream	BufferedReader	JSONObject	
+add	
+ArrayList	JFrame	JPanel	Object	JButton	ActionEvent	JLabel	Color	BorderLayout	ActionListener	
+add	
+ArrayList	JFrame	JPanel	Object	JButton	ActionEvent	JLabel	Color	BorderLayout	ActionListener	
+creat	
+ArrayList	Object	File	Class	Map	IOException	HashMap	Test	JFrame	JPanel	
+chang	
+Color	JFrame	Object	JPanel	ActionEvent	JLabel	JButton	ActionListener	UIManager	SwingUtilities	
+
+
+serial	
+IOException	Serializable	Object	ObjectOutputStream	ObjectInputStream	ObjectMapper	Map	ArrayList	JsonSerializer	HashMap	
+read	
+File	IOException	BufferedReader	InputStream	InputStreamReader	FileInputStream	Scanner	ArrayList	FileReader	Object	
+search	
+ArrayList	Object	HashMap	Node	File	Map	Arrays	Query	Pattern	HashSet	
+
+
+creat	base	
+Class	Map	ArrayList	File	Base	Object	IOException	Arrays	Bean	HashMap	
+shape	
+Graphics	Color	JFrame	JPanel	Shape	Dimension	Rectangle	Ellipse	SwingUtilities	BufferedImage	
+transform	
+TransformerFactory	StreamResult	Transformer	Function	Transform	StreamSource	ArrayList	Document	InputStream	Map	
+write	
+File	IOException	FileOutputStream	FileWriter	Object	OutputStream	BufferedWriter	InputStream	ArrayList	PrintWriter	
+chang	
+Color	JFrame	Object	JPanel	ActionEvent	JLabel	JButton	ActionListener	UIManager	SwingUtilities	
+draw	
+Graphics	Color	JPanel	JFrame	Dimension	BufferedImage	Point	SwingUtilities	Canvas	JComponent	
+
+
+
+
+email	
+Session	MimeMessage	Message	Properties	InternetAddress	Transport	RecipientType	Subject	Content	DataSource	
+add	exist	
+ArrayList	Arrays	JFrame	PdfContentByte	Set	Object	Add	File	BorderLayout	JPanel	
+
+
+ad	
+
+ad	
+
+add	exist	
+ArrayList	Arrays	JFrame	PdfContentByte	Set	Object	Add	File	BorderLayout	JPanel	
+ad	
+
+copi	past	
+Clipboard	CopyAction	DefaultEditorKit	JFrame	Object	Copy	ArrayList	CutAction	File	JMenuItem	
+connect	
+Connection	DriverManager	IOException	SQLException	DataSource	Driver	Socket	Class	InputStream	Context	
+connect	
+Connection	DriverManager	IOException	SQLException	DataSource	Driver	Socket	Class	InputStream	Context	
+connect	
+Connection	DriverManager	IOException	SQLException	DataSource	Driver	Socket	Class	InputStream	Context	
+post	
+Content	HttpPost	IOException	HttpResponse	DefaultHttpClient	HttpClient	ArrayList	InputStream	HttpServletRequest	MediaType	
+
+
+ad	shape	
+Graphics	Color	JFrame	JPanel	Shape	Dimension	Rectangle	Ellipse	SwingUtilities	BufferedImage	
+perform	
+ArrayList	Object	Map	HashMap	IOException	Arrays	Method	Test	File	Pattern	
+execut	
+Object	Class	File	Main	IOException	Test	InputStream	BufferedReader	Executors	InputStreamReader	
+list	
+ArrayList	Object	Map	Collections	Arrays	LinkedList	HashMap	Set	Comparator	Class	
+pass	
+Object	Class	ArrayList	Map	Intent	Test	Bundle	Arrays	HashMap	IOException	
+
+
+execut	
+Object	Class	File	Main	IOException	Test	InputStream	BufferedReader	Executors	InputStreamReader	
+generat	
+Random	ArrayList	Object	XMLSchema	File	IOException	Map	Class	Test	Arrays	
+determin	oper	
+ShowProperties	ArrayList	Object	File	Set	Serializable	IOException	Class	Arrays	Iterator	
+
+
+bind	
+Object	ArrayList	Class	KeyStroke	Map	JComponent	XmlRootElement	Inject	ActionEvent	Foo	
+
+
+check	
+Object	Class	File	ArrayList	IOException	Arrays	Set	Pattern	HashSet	Map	
+list	grant	
+Object	ArrayList	Djava	CodeSource	AccessController	Map	Collections	File	FilePermission	Arrays	
+generat	
+Random	ArrayList	Object	XMLSchema	File	IOException	Map	Class	Test	Arrays	
+sign	
+Certificate	IOException	Java	KeyStore	Signature	InputStream	Object	ArrayList	File	AccessController	
+
+
+execut	
+Object	Class	File	Main	IOException	Test	InputStream	BufferedReader	Executors	InputStreamReader	
+simul	click	
+Robot	KeyStroke	JButton	InputEvent	ActionEvent	GridLayout	GridData	KeyEvent	MouseEvent	Display	
+
+
+
+
+file	
+File	IOException	InputStream	FileInputStream	FileOutputStream	BufferedReader	ArrayList	FileReader	InputStreamReader	Files	
+
+
+set	
+Set	Object	JFrame	ArrayList	HashSet	Map	Color	JPanel	File	HashMap	
+
+
+compress	
+File	ByteArrayOutputStream	FileOutputStream	IOException	InputStream	GZIPOutputStream	FileInputStream	OutputStream	ByteArrayInputStream	GZIPInputStream	
+
+
+play	
+Result	Application	File	Play	MediaPlayer	Map	User	AudioSystem	Controller	Object	
+
+
+generat	
+Random	ArrayList	Object	XMLSchema	File	IOException	Map	Class	Test	Arrays	
+
+
+
+
+send	
+IOException	Content	Message	InputStream	OutputStream	Socket	File	Session	BufferedReader	MimeMessage	
+
+
+map	
+Map	HashMap	Object	ArrayList	Set	Entity	TreeMap	Column	Class	Collections	
+
+
+write	file	
+File	FileOutputStream	FileWriter	IOException	BufferedWriter	PrintWriter	InputStream	FileInputStream	OutputStream	ArrayList	
+send	serial	
+ObjectInputStream	ObjectOutputStream	IOException	InputStream	OutputStream	Serializable	Documents	Content	Message	Desktop	
+base	
+Base	ArrayList	Map	Object	Class	Comparator	Collections	HashMap	IOException	Arrays	
+pars	
+SimpleDateFormat	Document	JSONObject	ArrayList	Map	Pattern	Element	IOException	Gson	File	
+
+
+
+
+
+
+convert	
+ArrayList	SimpleDateFormat	Object	Map	Arrays	File	IOException	HashMap	Class	BufferedImage	

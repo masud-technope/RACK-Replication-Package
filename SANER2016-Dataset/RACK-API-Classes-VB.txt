@@ -1,0 +1,300 @@
+insert	
+PreparedStatement	List	Connection	
+compress	zip	
+File	FileOutputStream	ZipEntry	ZipOutputStream	ByteArrayOutputStream	InputStream	
+decompress	
+InputStream	OutputStream	
+compress	
+File	ByteArrayOutputStream	FileOutputStream	InputStream	
+
+
+pars	
+List	SimpleDateFormat	Date	Document	
+repres	
+List	BigDecimal	Date	Map	
+connect	
+Connection	DriverManager	DataSource	Driver	Socket	
+send	
+Content	Message	InputStream	OutputStream	Socket	
+read	
+File	BufferedReader	InputStream	InputStreamReader	
+creat	
+List	File	Map	Runnable	
+digest	
+Digester	HashMap	Response	MessageDigest	
+calcul	digest	
+Digester	Math	HashMap	Calendar	Date	Response	List	MessageDigest	
+
+
+implement	equal	
+List	HashMap	HashSet	Runnable	
+establish	
+Connection	DriverManager	Accept	BufferedReader	Character	
+monitor	
+GraphicsDevice	GraphicsEnvironment	Thread	Runnable	InterruptedException	
+move	
+Graphics	Math	ActionEvent	Runnable	Dimension	
+creat	delet	
+List	File	Set	Map	Runnable	CascadeType	
+list	
+List	Map	Collections	Arrays	
+verifi	sign	
+List	X509Certificate	Mockito	KeyStore	Java	Signature	InputStream	WebElement	Base64	
+creat	
+List	File	Map	Runnable	
+generat	
+List	Random	Math	File	
+copi	
+ArrayList	File	FileOutputStream	InputStream	
+set	
+Set	List	Map	
+set	
+Set	List	Map	
+revers	
+List	StringBuilder	Collections	Arrays	
+send	
+Content	Message	InputStream	OutputStream	Socket	
+
+
+
+
+execut	
+Thread	Runnable	Runtime	Process	File	
+
+
+delet	
+File	List	Set	CascadeType	
+
+
+
+
+creat	
+List	File	Map	Runnable	
+compar	
+Comparable	Comparator	List	Collections	
+chang	
+Color	Runnable	ActionEvent	ActionListener	SwingUtilities	
+retriev	
+List	Map	ResultSet	
+call	store	return	set	
+List	Map	File	Set	Thread	Runnable	Method	
+convert	
+List	Date	SimpleDateFormat	Map	
+creat	
+List	File	Map	Runnable	
+
+
+creat	
+List	File	Map	Runnable	
+read	
+File	BufferedReader	InputStream	InputStreamReader	
+
+
+
+
+creat	
+List	File	Map	Runnable	
+break	
+List	Pattern	Runnable	Matcher	
+chang	
+Color	Runnable	ActionEvent	ActionListener	SwingUtilities	
+chang	
+Color	Runnable	ActionEvent	ActionListener	SwingUtilities	
+pars	
+List	SimpleDateFormat	Date	Document	
+iter	
+Iterator	List	Iterable	Map	
+pars	
+List	SimpleDateFormat	Date	Document	
+
+
+support	
+List	Java	File	InputStream	
+support	
+List	Java	File	InputStream	
+execut	store	
+List	Thread	File	Runnable	Runtime	Map	Process	
+print	regist	
+List	Runnable	Configuration	Arrays	StringBuilder	ActionEvent	File	Application	
+turn	
+List	Context	BufferedImage	Runnable	
+creat	
+List	File	Map	Runnable	
+delet	
+File	List	Set	CascadeType	
+
+
+upload	
+File	InputStream	HttpServletRequest	Content	
+creat	
+List	File	Map	Runnable	
+draw	
+Graphics	Color	Dimension	Runnable	BufferedImage	
+save	
+File	FileOutputStream	List	BufferedImage	
+
+
+call	
+Thread	List	Runnable	Method	
+invok	
+Method	List	Thread	Map	
+
+
+redirect	call	
+HttpServletRequest	Thread	HttpServletResponse	List	Runnable	Location	PrintStream	Method	RequestMapping	
+set	
+Set	List	Map	
+
+
+connect	read	
+Connection	File	BufferedReader	DriverManager	InputStream	DataSource	InputStreamReader	Driver	Socket	
+creat	
+List	File	Map	Runnable	
+build	
+Build	Java	List	Path	File	
+
+
+read	
+File	BufferedReader	InputStream	InputStreamReader	
+serial	
+Serializable	ObjectOutputStream	List	ObjectInputStream	ObjectMapper	
+execut	
+Thread	Runnable	Runtime	Process	File	
+compar	
+Comparable	Comparator	List	Collections	
+add	
+List	Runnable	ActionEvent	Color	
+add	
+List	Runnable	ActionEvent	Color	
+creat	
+List	File	Map	Runnable	
+token	
+List	StringTokenizer	Pattern	Matcher	
+
+
+remov	
+List	Iterator	Set	Arrays	
+fetch	
+List	Document	HashMap	Long	
+render	save	
+List	Component	File	FileOutputStream	Color	Runnable	Graphics	BufferedImage	
+move	
+Graphics	Math	ActionEvent	Runnable	Dimension	
+
+
+creat	
+List	File	Map	Runnable	
+sort	
+Comparator	Collections	List	Arrays	
+
+
+pass	
+List	Map	Runnable	Intent	
+creat	
+List	File	Map	Runnable	
+captur	
+Pattern	Matcher	List	File	Bitmap	
+rotat	shape	
+Graphics	Color	Math	AffineTransform	Shape	Runnable	BufferedImage	
+write	
+File	FileOutputStream	FileWriter	List	
+pars	file	
+List	File	InputStream	SimpleDateFormat	Date	FileOutputStream	Document	BufferedReader	
+add	
+List	Runnable	ActionEvent	Color	
+add	
+List	Runnable	ActionEvent	Color	
+creat	
+List	File	Map	Runnable	
+chang	
+Color	Runnable	ActionEvent	ActionListener	SwingUtilities	
+
+
+serial	
+Serializable	ObjectOutputStream	List	ObjectInputStream	ObjectMapper	
+read	
+File	BufferedReader	InputStream	InputStreamReader	
+search	
+List	HashMap	Node	
+
+
+creat	base	
+List	Map	File	Comparator	Runnable	Collections	
+shape	
+Color	Graphics	Shape	Math	Runnable	
+transform	
+List	TransformerFactory	StreamResult	Transformer	Function	
+write	
+File	FileOutputStream	FileWriter	List	
+chang	
+Color	Runnable	ActionEvent	ActionListener	SwingUtilities	
+draw	
+Graphics	Color	Dimension	Runnable	BufferedImage	
+
+
+
+
+email	
+Session	MimeMessage	Properties	InternetAddress	
+add	exist	
+List	File	Runnable	ActionEvent	Map	Color	Arrays	
+
+
+
+
+
+
+add	exist	
+List	File	Runnable	ActionEvent	Map	Color	Arrays	
+
+
+copi	past	
+List	Clipboard	DefaultEditorKit	File	CopyAction	FileOutputStream	InputStream	DataFlavor	
+connect	
+Connection	DriverManager	DataSource	Driver	Socket	
+connect	
+Connection	DriverManager	DataSource	Driver	Socket	
+connect	
+Connection	DriverManager	DataSource	Driver	Socket	
+post	
+Content	Type	HttpPost	List	HttpResponse	
+
+
+shape	
+Color	Graphics	Shape	Math	Runnable	
+perform	
+List	StringBuilder	Thread	Map	
+execut	
+Thread	Runnable	Runtime	Process	File	
+list	
+List	Map	Collections	Arrays	
+pass	
+List	Map	Runnable	Intent	
+
+
+execut	
+Thread	Runnable	Runtime	Process	File	
+generat	
+List	Random	Math	File	
+determin	oper	
+List	Math	File	StringBuilder	Map	Arrays	
+
+
+bind	
+List	KeyStroke	Map	XmlRootElement	
+
+
+check	
+List	File	Arrays	Set	
+list	grant	
+Djava	List	CodeSource	AccessController	Map	Collections	File	Arrays	FilePermission	
+generat	
+List	Random	Math	File	
+sign	
+X509Certificate	KeyStore	Java	InputStream	List	
+
+
+execut	
+Thread	Runnable	Runtime	Process	File	
+simul	click	
+KeyEvent	ActionEvent	Runnable	MouseEvent	Math	Robot	View	ActionListener	Thread	

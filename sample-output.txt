@@ -1,0 +1,30 @@
+How can I insert an element in array at a given position?
+List	Arrays	PreparedStatement	Runnable	SwingUtilities	
+
+How do I compress or zip a directory recursively?
+File	List	FileOutputStream	InputStream	ZipEntry	
+
+How do I decompress a GZip file in Java?
+InputStream	File	FileOutputStream	List	Map	
+
+How do I compress a file in GZip format?
+InputStream	File	FileOutputStream	ByteArrayOutputStream	SimpleDateFormat	
+
+How do I use PriorityBlockingQueue class?
+List	PriorityBlockingQueue	MyClass	Comparable	InterruptedException	
+
+How do I parse a text string into date and time?
+List	Date	SimpleDateFormat	Calendar	File	
+
+How documents are represented in MongoDB Java Driver?
+List	File	ObjectId	Driver	Document	
+
+How do I connect to a MongoDB Database?
+Connection	DriverManager	List	ObjectId	MongoClient	
+
+How do I send an HTML email?
+Message	Document	Content	Session	Jsoup	
+
+How do I move a file in JDK 7?
+Java	Graphics	File	InputStream	Math	
+
