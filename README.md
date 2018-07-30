@@ -28,11 +28,11 @@ pp. 51--54, Buenos Aires, Argentina, May, 2017
 
 Materials Included
 ----------------------------------------
--- ```rack-exec``` is the functional prototype of RACK, the proposed query reformulation technique.
--- ```database``` contains the keyword--API database constructed from 344K Java related questions and answers of Stack Overflow.
--- ```models``` contains the trained models needed for POS tagging by Stanford POS tagger.
--- ```stopword``` contains the stop words used by RACK
--- ```EMSE2018-Dataset```
+- ```rack-exec``` is the functional prototype of RACK, the proposed query reformulation technique.
+- ```database``` contains the keyword--API database constructed from 344K Java related questions and answers of Stack Overflow.
+- ```models``` contains the trained models needed for POS tagging by Stanford POS tagger.
+- ```stopword``` contains the stop words used by RACK
+-- ```EMSE2018-Dataset``` contains experimental data reported on EMSE
 
 
 
