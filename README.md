@@ -28,10 +28,17 @@ pp. 51--54, Buenos Aires, Argentina, May, 2017
 
 Materials Included
 ----------------------------------------
+**Installation & Run**
+
 - ```rack-exec``` is the functional prototype of RACK, the proposed query reformulation technique. We also include a ```rack-running-snapshot``` for RACK.
 - ```database``` contains the keyword--API database constructed from 344K Java related questions and answers of Stack Overflow.
 - ```models``` contains the trained models needed for POS tagging by Stanford POS tagger.
 - ```stopword``` contains the stop words used by RACK
+- ```sample-queries``` for RACK
+- ```sample-output``` produced by RACK
+
+**Experimental Dataset**
+
 - ```EMSE2018-Dataset``` contains experimental data reported on EMSE 2018
    - ```NL Queries & Oracle```: 175 natural language queries & ground truth.
    - ```RACK-Suggested-API-Classes```: 175 natural language queries and API classes suggested by RACK
@@ -41,8 +48,9 @@ Materials Included
    - ```RACK-Suggested-API-Classes-NN```: API classes suggested by RACK when only noun keywords are used.
    - ```RACK-Suggested-API-Classes-VB```: API classes suggested by RACK when only verb keywords are used.
 - ```SANER2016-Dataset``` contains experimental results for 150 queries, published in SANER 2016
-- ```sample-queries``` for RACK
-- ```sample-output``` produced by RACK
+
+** License & Others**
+
 - ```README```
 - ```LICENSE```
 
@@ -64,6 +72,8 @@ year={2017},
 pages={51--54} 
 }
 ```
+--------------------------------------------
+Please contact **Masud Rahman** (masud.rahman@usask.ca) or create a new issue for further information.
 
 
 
