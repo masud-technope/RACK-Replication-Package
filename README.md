@@ -28,11 +28,44 @@ pp. 51--54, Buenos Aires, Argentina, May, 2017
 
 Materials Included
 ----------------------------------------
-- ```rack-exec``` is the functional prototype of RACK, the proposed query reformulation technique.
+- ```rack-exec``` is the functional prototype of RACK, the proposed query reformulation technique. We also include a ```rack-running-snapshot``` for RACK.
 - ```database``` contains the keyword--API database constructed from 344K Java related questions and answers of Stack Overflow.
 - ```models``` contains the trained models needed for POS tagging by Stanford POS tagger.
 - ```stopword``` contains the stop words used by RACK
--- ```EMSE2018-Dataset``` contains experimental data reported on EMSE
+- ```EMSE2018-Dataset``` contains experimental data reported on EMSE 2018
+   - ```NL Queries & Oracle```: 175 natural language queries & ground truth.
+   - ```RACK-Suggested-API-Classes```: 175 natural language queries and API classes suggested by RACK
+   - ```RACK-Suggested-API-Classes-KAC```: API classes suggested by RACK when only KAC heuristic is used.
+   - ```RACK-Suggested-API-Classes-KKC```: API classes suggested by RACK when only KKC heuristic is used.		
+   - ```RACK-Suggested-API-Classes-KPAC```: API classes suggested by RACK when only KPAC heuristic is used.
+   - ```RACK-Suggested-API-Classes-NN```: API classes suggested by RACK when only noun keywords are used.
+   - ```RACK-Suggested-API-Classes-VB```: API classes suggested by RACK when only verb keywords are used.
+- ```SANER2016-Dataset``` contains experimental results for 150 queries, published in SANER 2016
+- ```sample-queries``` for RACK
+- ```sample-output``` produced by RACK
+- ```README```
+- ```LICENSE```
+
+Please cite our work as
+------------------------------------------------
+```
+@INPROCEEDINGS{saner2016masud,
+author={Rahman, M. M. and Roy, C. K. and Lo, D.},
+booktitle={Proc. SANER}, title={{RACK}: {A}utomatic {API} {R}ecommendation using {C}rowdsourced {K}nowledge},
+year={2016},
+pages={349--359} 
+}
+```
+```
+@INPROCEEDINGS{icse2017masud,
+author={Rahman, M. M. and Roy, C. K. and Lo, D.},
+booktitle={Proc. ICSE}, title={RACK: Code Search in the IDE using Crowdsourced Knowledge},
+year={2017},
+pages={51--54} 
+}
+```
+
+
 
 
 
