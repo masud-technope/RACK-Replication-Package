@@ -1,30 +1,30 @@
 How can I insert an element in array at a given position?
-List	Arrays	PreparedStatement	Runnable	SwingUtilities	
+ArrayList	Arrays	Map	HashMap	Object	Collections	Element	JPanel	Set	PreparedStatement	
 
 How do I compress or zip a directory recursively?
-File	List	FileOutputStream	InputStream	ZipEntry	
+File	ZipEntry	FileOutputStream	FileInputStream	ArrayList	IOException	BufferedOutputStream	InputStream	Zip	CreateTarGZ	
 
 How do I decompress a GZip file in Java?
-InputStream	File	FileOutputStream	List	Map	
+GZIPInputStream	InputStream	GZIPOutputStream	File	FileOutputStream	IOException	FileInputStream	OutputStream	ArrayList	ByteArrayOutputStream	
 
 How do I compress a file in GZip format?
-InputStream	File	FileOutputStream	ByteArrayOutputStream	SimpleDateFormat	
+File	InputStream	FileOutputStream	GZIPOutputStream	ByteArrayOutputStream	GZIPInputStream	IOException	FileInputStream	SimpleDateFormat	BufferedReader	
 
 How do I use PriorityBlockingQueue class?
-List	PriorityBlockingQueue	MyClass	Comparable	InterruptedException	
+ArrayList	PriorityBlockingQueue	Class	BlockingQueue	Object	Queue	Test	ThreadPoolExecutor	Foo	TimeUnit	
 
 How do I parse a text string into date and time?
-List	Date	SimpleDateFormat	Calendar	File	
+SimpleDateFormat	Calendar	DateTimeFormatter	Pattern	DateFormat	ArrayList	ParseException	DateTime	Object	Matcher	
 
 How documents are represented in MongoDB Java Driver?
-List	File	ObjectId	Driver	Document	
+BasicDBObject	DBObject	DBCursor	DBCollection	Class	ArrayList	Object	ObjectId	File	IOException	
 
 How do I connect to a MongoDB Database?
-Connection	DriverManager	List	ObjectId	MongoClient	
+MongoClient	Connection	BasicDBObject	DriverManager	Mongo	MongoClientURI	SQLException	DateTime	Class	Driver	
 
 How do I send an HTML email?
-Message	Document	Content	Session	Jsoup	
+MimeMessage	Content	Message	DataHandler	InternetAddress	IOException	MimeBodyPart	Session	InputStream	Add	
 
 How do I move a file in JDK 7?
-Java	Graphics	File	InputStream	Math	
+Files	File	Path	FileInputStream	IOException	JFrame	FileOutputStream	Java	InputStream	Graphics	
 
