@@ -119,7 +119,7 @@ java -jar rack-exec.jar -K 10 -task evaluateAPISuggestion -resultFile ./EMSE2018
 
 This command reports Top-10 accuracy, MRR@10, MAP@10, and MR@10 for API suggestion
 
-Q.5: How to get retrieval performance of the reformulated queries?
+Q.4: How to get retrieval performance of the reformulated queries?
 --------------------------------------------------------------------------
 ```
 java -jar rack-exec.jar -K 10 -task evaluateCodeSearch -resultFile ./EMSE2018-Dataset/RACK-Suggested-API-Classes.txt
@@ -127,7 +127,7 @@ java -jar rack-exec.jar -K 10 -task evaluateCodeSearch -resultFile ./EMSE2018-Da
 
 This commands reports Top-10 accuracy and MRR@10 of code segment retrieval by RACK
 
-Q.4: How to determine query improvement and worsening ratios of the reformulated queries?
+Q.5: How to determine query improvement and worsening ratios of the reformulated queries?
 ---------------------------------------------------------------------------------------------
 ```
 java -jar rack-exec.jar -K 10 -task evaluateQE -resultFile ./EMSE2018-Dataset/RACK-Suggested-API-Classes.txt
