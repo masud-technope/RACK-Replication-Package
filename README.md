@@ -103,12 +103,12 @@ java -jar rack-exec.jar -K 10 -task suggestAPI -queryFile ./sample-queries.txt -
 ```
 
 Please note that each NL query is followed by ground truth API classes in the next line (e.g., ```NL-Queries-&-Oracle```). That is, the queries should be 
-on the odd lines in the query file.
+on the odd lines in the query file. The next line will be either ground truth or simply blank. 
 
 Query File format
 --------------------------
 - NL Query: How do I send an HTML email?
-- **<BLANK>** or Ground Truth: Properties Session Message MimeMessage InternetAddress
+- **BLANK** or Ground Truth: Properties Session Message MimeMessage InternetAddress
 
 
 Q.3: How to determine API suggestion performance?
