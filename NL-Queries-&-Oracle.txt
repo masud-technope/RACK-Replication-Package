@@ -1,0 +1,350 @@
+How can I insert an element in array at a given position?
+List ArrayList
+How do I compress or zip a directory recursively?
+ZipOutputStream ZipEntry FileOutputStream FileInputStream
+How do I decompress a GZip file in Java?
+FileInputStream FileOutputStream GZipOutputStream GZipFile
+How do I compress a file in GZip format?
+GZipOutputStream FileInputStream FileOutputStream
+How do I use PriorityBlockingQueue class?
+PriorityBlockingQueue BlockingQueue Comparable
+How do I parse a text string into date and time?
+LocalDate LocalTime LocalDateTime
+How documents are represented in MongoDB Java Driver?
+DBObject BasicDBObject LinkedHashMap
+How do I connect to a MongoDB Database?
+MongoClient ServerAddress DBCollection BasicDBObject
+How do I send an HTML email?
+Properties Session Message MimeMessage InternetAddress
+How do I read last n characters from a file?
+SeekableByteChannel FileChannel ByteBuffer StandardOpenOption
+Creating MySql database programatically in Java
+DriverManager PreparedStatement Connection
+Generating MD5 digest from File or InputStream object
+DigestUtils InputStream FileInputStream
+How do I calculate the MD5 digest of a string?
+DigestUtils InputStream 
+How do I clone an array variable?
+ArrayUtils
+How to implement the hashCode and equals method using Apache Commons?
+HashCodeBuilder EqualsBuilder
+How to establish connection to database with Properties?
+Properties DriverManager Connection
+How to monitor file or directory changes?
+WatchService Path WatchKey WatchEvent StandardWatchEventKinds
+How do I move a file in JDK 7?
+Files CopyOption Path
+How do I create and delete a file in JDK 7?
+Files Path
+How to recursively list all text files in a directory?
+Files FindTextFilesVisitor SimpleFileVisitor WalkFileTree BasicFileAttributes
+How to verify digital signature of a signed data?
+X509EncodedKeySpec KeyFactory PublicKey Signature EncodedKeySpec
+How to create a digital signature and sign data?
+Signature PrivateKey KeyPairGenerator SecureRandom KeyPair
+How do I generate public and private keys?
+KeyPairGenerator SecureRandom KeyPair PrivateKey PublicKey
+How do I copy a file in JDK 7?
+Path CopyOption StandardCopyOption
+How do I set the value of file attributes?
+DosFileAttributes Files 
+How do I set file last modified time? 
+Files FileTime Path
+How do I reverse the order of array elements?
+Collections List Arrays
+How do I send an Http Post request?
+HttpPost NameValuePair UrlEncodedFormEntity HttpClient HttpResponse
+How do I get Http response body as a string?
+HttpEntity EntityUtils HttpResponse HttpClient HttpGet
+How do I get entity ContentType in HttpClient?
+HttpEntity ContentType HttpResponse HttpClient MimeType
+How do I execute Http Get request?
+HttpGet HttpClient HttpResponse InputStream BufferedReader
+How do I get the primary key of any JPA entity?
+PersistenceUnitUtil EntityManagerFactory EntityManager
+How do I delete entity object in JPA?
+EntityManager EntityManagerFactory EntityNotFoundException
+How do I get all available currency codes?
+CurrencySymbol Currency TreeMap
+How do I get host’s default timezone id?
+TimeZone 
+How to create an XML file of a POJO using JAXB?
+JAXBContext Marshaller  File JAXBException
+How do I compare two dates?
+SimpleDateFormat Calendar DateFormat Date
+How do I change date formatting symbols?
+DateFormatSymbols DateFormat SimpleDateFormat Date
+How do I retrieve available schemas in database?
+DatabaseMetaData ResultSet DriverManager OracleDriver Connection
+How do I call a stored procedure that return a result set?
+CallableStatement ResultSet DriverManager Connection
+How do I convert raw IP address to String?
+InetAddress UnknownHostException
+How do I create port scanner program?
+InetAddress Socket IOException
+How do I get MAC address of a host?
+InetAddress NetworkInterface SocketException UnknownHostException
+How do I create a client-server socket communication?
+ServerSocket Socket InetAddress ObjectOutputStream ObjectInputStream
+How do I read download webpage content?
+URL BufferedReader BufferedWriter MalformedURLException InputStreamReader
+How do I get IP address of localhost?
+InetAddress UnknownHostException
+How do I get cryptographic security providers?
+Provider Set Security HashSet
+How do I create an encrypted string for password?
+MessageDigest StringBuilder
+How do I breaks a paragraph into sentences?
+BreakIterator  Locale String
+How do I change the date format symbols for a specified locale?
+Locale SimpleDateFormat  DateFormatSymbols Date
+How do I change number format symbols?
+DecimalFormatSymbols DecimalFormat Locale
+How do I parse a number for a locale?
+Number Locale NumberFormat ParseException
+How do I iterate a subset of a string?
+CharacterIterator  StringCharacterIterator
+How do I get attributes of element during SAX parsing?
+SAXParser SAXElementAttribute InputStream SAXParserFactory DefaultHandler
+How do I get JDBC driver property information?
+Driver DriverPropertyInfo DriverManager StringBuilder
+How do I get numeric functions supported by database?
+Connection  DatabaseMetaData DriverManager
+How do I get data types supported by database?
+DatabaseMetaData Connection ResultSet DriverManager
+How do I execute stored procedure?
+CallableStatement DriverManager OracleDriver
+How do I print a file using the default registered application?
+Desktop  File 
+How do I turn the Num Lock button on?
+Toolkit KeyEvent
+How do I create subscript in iText?
+PdfWriter Document Chunk FontFactory DocumentException
+How do I delete file from FTP server?
+FTPClient IOException
+How do I get list of files from FTP server?
+FTPClient FTPFile FileUtils
+How do I upload file to FTP server?
+FTPClient FileInputStream IOException
+How do I create an Excel document using Apache POI?
+HSSFWorkbook HSSFSheet HSSFRow HSSFCell HSSFRichTextString
+Draw a draggable triangle in Java
+TrianglePanel Dimension Color Point JFrame
+Take a screenshot and save as image in Java
+GraphicsEnvironment GraphicsDevice DisplayMode  Robot ImageWriter ImageIO ImageOutputStream 
+Load a Resource Bundle 
+ResourceBundle Enumeration  
+Instantiate unknown class at runtime and call the object’s methods
+Class Method
+Invoke methods of an object using reflection
+Class Method Object InvocationTargetException IllegalAccessException
+List methods of a class using Reflection 
+Class Method 
+Redirect Servlet Call to Another URL
+HttpServletRequest HttpServletResponse HttpServlet ServletException
+Get and Set Session Variables in a Servlet
+HttpSession PrintWriter HttpServletResponse HttpServlet ServletException
+Get Request Parameters in a Servlet 
+HttpServletRequest Enumeration PrintWriter HttpServlet
+Connect to a database and read from table 
+Connection Statement ResultSet DriverManager SQLServerDriver
+creating in-memory lucene index
+Directory IndexWriterConfig IndexWriter StandardAnalyzer StringField TextField
+building lucene search query
+Query QueryParser
+doing lucene search
+IndexReader IndexSearcher TopScoreDocCollector ScoreDoc
+read JSON data to JSON Object Model
+JsonReader JsonObject JsonArray JsonValue StringReader
+how to serialize JSON Object 
+JsonObject JsonWriter StringWriter JsonObjectBuilder
+execute the test cases using Test runner
+Result JUnitCore Failure MessageUtil
+Java Compare file content
+File FileInputStream
+Java Add comment in XML
+Document Element Comment TransformerFactory DocumentBuilderFactory
+XML How to Add CDATA data 
+Element CDATASection Document DocumentBuilderFactory TransformerFactory
+How to Create a Shared File Lock on a File
+FileChannel FileLock RandomAccessFile File
+How to Tokenize Java Source Code
+FileReader StreamTokenizer
+How to Visit All the Elements in a DOM Document
+Document NodeList Element InputSource DocumentBuilder DocumentBuilderFactory
+XML How to Remove all attributes
+Document NamedNodeMap DocumentBuilderFactory Element File
+XML How to Fetch data from the Web
+Document Jsoup Elements Element 
+How to Render HTML and save to Image
+BufferedImage GraphicsEnvironment Graphics ImageIO JEditorPane
+How to Move image on screen
+ImageIO Dimension Graphics2D Timer BufferedImage EventQueue
+How to Load font from ttf file
+InputStream Font
+How to create a server socket
+ServerSocket InetSocketAddress Socket BufferedWriter OutputStreamWriter
+How to Sort a Map by values
+Map Comparator HashMap LinkedHashMap
+How to Store properties as XML file
+Properties FileOutputStream
+Passing Parameters from Java Code to Scripts
+ScriptEngineManager ScriptEngine Object ScriptException
+How to Create thumbnail views of images
+BufferedImage ImageIO  Graphics2D
+How to Capture image from webcam in java
+MediaLocator Player Manager WindowEvent WindowAdapter 
+Java Graphics How to Rotate Shape
+AffineTransform Rectangle Shape
+How to Load an image and write text to it
+FileOutputStream ImageIO BufferedImage ByteArrayOutputStream URL Point
+Parsing an XML File Using SAX
+SAXParserFactory SAXParser DefaultHandler
+How to add attribute to an element
+Document Element DocumentBuilder
+How to add text node to an element
+Document Element DocumentBuilder
+How to create comments node for XML
+Document Element Comment
+How to change a specific element using XPath
+Document XPath NodeList Transformer
+How to use a StAX parser
+XMLStreamReader XMLInputFactory XMLStreamConstants
+How to serialize JSON Object
+JsonObject StringWriter JsonWriter
+Read JSON Array
+JsonReader JsonArray JsonValue JsonObject
+How to search for HTML XML comments
+Document Jsoup Node
+How to use hashmap properties with JAXB
+JAXBContext Marshaller XmlElement Unmarshaller
+How do I create a web based file upload?
+ServletFileUpload FileItemFactory FileItem
+How to shear Shape?
+AffineTransform Rectangle Shape
+How to transform ellipse
+Graphics2D Ellipse2D AffineTransform
+How to write text onto image
+BufferedImag Graphics ImageIO
+How to change text color with CSS for Label?
+Scene Label VBox
+How to draw text content to Image?
+BufferedImage FontMetrics ImageIO
+Java Mail POP3 Client
+Session Store Folder Message
+Java Mail Secure POP3 Client
+PasswordAuthentication Session Store Folder Message
+Get Email Header
+URLName Message Header Session
+Add Extra Page To Existing PDF
+PdfReader PdfStamper PdfContentByte
+Simple Annotations with Another PDF document
+Document PdfWriter Annotation
+Adding AWT Image to PDF with Color
+PdfWriter PdfContentByte Image
+Adding Paragraph to a PDF Page
+PdfWriter Document Paragraph
+Add Watermark Image to an Existing PDF File
+PdfReader PdfStamper PdfContentByte Image
+Adding Bookmarks for PDF document
+PdfWriter PdfOutline PdfDestination
+Copy and paste data with the clipboard
+Clipboard TextTransfer FormData
+Connect with a Web server
+InetAddress  Socket
+Connects to an rshell daemon
+RCommandClient  IOUtil
+Connects to an rlogin daemon
+RLoginClient IOUtil
+POSTing data to an HTTP server
+URLConnection  DataOutputStream DataInputStream
+Get session from request
+HttpSession PrintWriter HttpServletRequest
+Adding Drop Shadow to a Shape
+DropShadow Shape Ellipse Scene
+Uses serialization to perform deep copy cloning.
+Cloneable Serializable ObjectOutputStream 
+Execute Javascript script in a file
+ScriptEngine FileReader
+Listing All Script Engines
+ScriptEngineManage ScriptEngineFactory
+Pass parameter to JavaScript through Java code
+ScriptEngineManager ScriptEngine ScriptException
+Using Java Objects in JavaScript
+ScriptEngineManager ScriptEngine
+Read and execute a script source file
+InputStreamReader FileInputStream ScriptEngineManager ScriptEngine
+Use DSA key pair to generate XML Signature
+KeyPairGenerator KeyPair XMLSignatureFactory XMLSignature
+Determining operating system support for attribute views
+Paths Path FileSystem
+Change label border with CSS (Smart GWT)
+HLayout VLayout Canvas BlueBox
+Servlet: Session bind listener
+HttpSession HttpSessionBindingListener 
+Basic Authentication For JSP Page
+HttpClient Credentials AuthScope HttpState
+Checking Read Write Permission for a Directory
+AccessController FilePermission
+Listing All Permissions Granted to a Loaded Class
+ProtectionDomain PermissionCollection Permission
+Generate a DSA signature
+KeyPairGenerator KeyPair Signature
+Signing a Java Object
+KeyPairGenerator KeyPair Signature SignedObject
+Generating a Message Authentication Code (MAC)
+KeyGenerator SecretKey Mac
+Execute a command from code
+Process Runtime
+Simulate a mouse click
+Robot InputEvent
+Extract First File From Zip File Example
+FileInputStream ZipInputStream ZipEntry OutputStream
+Extract File With CRC32 Checksum
+CheckedInputStream CRC32  ZipInputStream ZipEntry
+Extract Zip File With Adler32 Checksum
+CheckedInputStream Adler32 ZipInputStream ZipEntry
+Load New HTML File Using Applet Context
+URL AppletContextMalformedURLException
+Set orientation for print job
+DocFlavor PrintService DocPrintJob Doc PrintRequestAttributeSet
+Determine format of an image
+ImageInputStream ImageIO ImageReader
+Compress a JPEG file
+IIOImage ImageIO ImageWriteParam ImageWriter ImageOutputStream
+Get Midi audio file properties
+Sequencer MidiFileFormat MidiSystem
+Play Midi audio
+Sequencer MidiSystem BufferedInputStream
+List available cryptographic services
+Security Provider
+Get bytes of generated symmetric key
+KeyGenerator SecretKey SecretKeySpec
+Import package in script
+ScriptEngineManager ScriptEngine StringBuilder
+Get script engine’s details
+ScriptEngineManager ScriptEngineFactory
+Send notification at MBean attribute change
+ManagementFactory  MBeanServer NotificationListener Notification
+JavaFX Creating a Sprite Animation
+Interpolator Transition ImageView Duration
+Using a memory mapped file for a huge matrix
+Closeable MappedByteBuffer RandomAccessFile FileChannel
+github api access example java
+GitHub GHRepository GHOrganization
+How to write an Object to file in Java
+FileOutputStream ObjectOutputStream Serializable
+Send HTTP requests for serialized objects
+HttpObjectChannel HttpObjectRequest HttpVarg
+RichText editor component for SWT based applications
+StyledText StyleRange CaretListener SelectionAdapter
+Parsing JavaScript code using Mozilla Rhino
+CompilerEnvirons FileReader AstRoot JSNodeVisitor JSErrorReporter
+DOM Parsing in Java
+DOMParser Document NodeList NamedNodeMap
+A block of text to use as input to the regular expression matcher
+Matcher Pattern ArrayList
+How to get HTTP Response Header in Java
+HttpClient HttpGet HttpResponse Header
+Convert Object to XML
+JAXBContext Marshaller JAXBException File
