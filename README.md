@@ -39,7 +39,7 @@ Unfortunately, the same queries are providing slightly different results with SQ
 - ```stopword/``` contains the stop words used by RACK
 - ```sample-queries``` for RACK
 - ```sample-output``` produced by RACK
--```NL-Queries-&-Oracle```: A utility file for the tool's run.
+- ```NL-Queries-&-Oracle```: A utility file for the tool's run.
 
 **Experimental Dataset: Queries & Results**
 
@@ -61,8 +61,8 @@ Unfortunately, the same queries are providing slightly different results with SQ
 System Requirements
 ---------------------------
 - JDK: RACK was built with **JDK 1.8.0_74**. Please use at least JDK 1.8.* for the successful execution/run.
-- Operating System: Only tested on Windows 10, but the tool is supposed to be *cross-platform*.
-- If any file path contains space or special characters, the path should be **"double quoted"**.
+- Operating System: Only tested on *Windows 10*, but the tool is supposed to be *cross-platform*.
+- If any file path contains *space* or *special characters*, the path should be **"double quoted"**.
 
 Available Operations
 ----------------------------
@@ -73,13 +73,16 @@ Available Operations
 
 Required parameters for the operations
 -----------------------------------------------
--  **-K** : expects the number of suggested API classes or code segments (e.g., default: 10)
+-  **-K** : expects the number of suggested API classes or code segments (e.g., default: **10**)
 -  **-query** : expects a natural language query
--  **-queryFile** : expects the file containing several natural language queries (e.g., deafult: ./sample-queries.txt). 
+-  **-queryFile** : expects the file containing several natural language queries (e.g., deafult: ```./sample-queries.txt```). 
 Please note that the **queries should be on the odd lines**.
 -  **-resultFile** : stores the API classes suggested by RACK
 -  **-task** : expects a task to be performed.
 
+
+Getting Started
+==================================================
 
 Q.1: How to install the RACK tool?
 --------------------------------------------------
@@ -88,7 +91,7 @@ Q.1: How to install the RACK tool?
 
 
 Q.2: How to reformulate a given NL query or a file containing all the queries?
-==================================================
+-----------------------------------------------------------------------------------
 Reformulate a single query
 ```
 java -jar rack-exec.jar -K 10 -task suggestAPI -query "How do I send an HTML email?"
@@ -99,7 +102,7 @@ Reformulate all queries stored in a file
 java -jar rack-exec.jar -K 10 -task suggestAPI -queryFile ./sample-queries.txt -resultFile ./sample-output.txt
 ```
 
-Please note that each NL query is followed by ground truth API classes in the next line (e.g., NL-Queries-&-Oracle). That is, the queries should be 
+Please note that each NL query is followed by ground truth API classes in the next line (e.g., ```NL-Queries-&-Oracle```). That is, the queries should be 
 on the odd lines in the query file.
 
 Query File format
