@@ -30,12 +30,16 @@ Materials Included
 ----------------------------------------
 **Tool Installation & Run**
 
-- ```rack-exec``` is the functional prototype of RACK, our proposed query reformulation technique. We also include ```rack-running-snapshot``` for RACK.
-- ```database/``` contains the keyword--API database constructed from 344K Java related questions and answers of Stack Overflow.
+- ```rack-exec``` is the functional prototype of RACK, our proposed query reformulation technique. The '0.0.0' version is deprecated (SANER 2016 version). 
+We also include ```rack-running-snapshot``` for RACK.
+- ```database/``` contains the keyword--API database constructed from 344K Java related questions and answers of Stack Overflow. 
+Originally, we used MSSQL; but we provide SQLite database for the sake of portability. 
+Unfortunately, the same queries are providing slightly different results with SQLite.
 - ```models/``` contains the trained models needed for POS tagging by Stanford POS tagger.
 - ```stopword/``` contains the stop words used by RACK
 - ```sample-queries``` for RACK
 - ```sample-output``` produced by RACK
+-```NL-Queries-&-Oracle```: A utility file for the tool's run.
 
 **Experimental Dataset: Queries & Results**
 
@@ -54,8 +58,83 @@ Materials Included
 - ```README```
 - ```LICENSE```
 
+System Requirements
+---------------------------
+- JDK: RACK was built with **JDK 1.8.0_74**. Please use at least JDK 1.8.* for the successful execution/run.
+- Operating System: Only tested on Windows 10, but the tool is supposed to be *cross-platform*.
+- If any file path contains space or special characters, the path should be **"double quoted"**.
+
+Available Operations
+----------------------------
+- ```suggestAPI``` :  Returns a list of API classes for one or more NL queries.
+- ```evaluateAPISuggestion``` :  Evaluates the accuracy of suggested API classes against ground truth. 
+- ```evaluateCodeSearch``` :  Evaluates the code retrieval performance of queries.
+- ```evaluateQE``` :  Evaluates improvement, worsening and preserving of baseline queries by RACK.
+
+Required parameters for the operations
+-----------------------------------------------
+-  **-K** : expects the number of suggested API classes or code segments (e.g., default: 10)
+-  **-query** : expects a natural language query
+-  **-queryFile** : expects the file containing several natural language queries (e.g., deafult: ./sample-queries.txt). 
+Please note that the **queries should be on the odd lines**.
+-  **-resultFile** : stores the API classes suggested by RACK
+-  **-task** : expects a task to be performed.
+
+
+Q.1: How to install the RACK tool?
+--------------------------------------------------
+- Execute ```git clone https://github.com/masud-technope/RACK-Replication-Package.git RACK```
+- Run the tool from within the ```RACK``` directory.
+
+
+Q.2: How to reformulate a given NL query or a file containing all the queries?
+==================================================
+Reformulate a single query
+```
+java -jar rack-exec.jar -K 10 -task suggestAPI -query "How do I send an HTML email?"
+```
+
+Reformulate all queries stored in a file
+```
+java -jar rack-exec.jar -K 10 -task suggestAPI -queryFile ./sample-queries.txt -resultFile ./sample-output.txt
+```
+
+Please note that each NL query is followed by ground truth API classes in the next line (e.g., NL-Queries-&-Oracle). That is, the queries should be 
+on the odd lines in the query file.
+
+Query File format
+--------------------------
+- NL Query: How do I send an HTML email?
+- **<BLANK>** or Ground Truth: Properties Session Message MimeMessage InternetAddress
+
+
+Q.3: How to determine API suggestion performance?
+-------------------------------------------------------
+```
+java -jar rack-exec.jar -K 10 -task evaluateAPISuggestion -resultFile ./EMSE2018-Dataset/RACK-Suggested-API-Classes.txt
+```
+
+This command reports Top-10 accuracy, MRR@10, MAP@10, and MR@10 for API suggestion
+
+Q.5: How to get retrieval performance of the reformulated queries?
+--------------------------------------------------------------------------
+```
+java -jar rack-exec.jar -K 10 -task evaluateCodeSearch -resultFile ./EMSE2018-Dataset/RACK-Suggested-API-Classes.txt
+```
+
+This commands reports Top-10 accuracy and MRR@10 of code segment retrieval by RACK
+
+Q.4: How to determine query improvement and worsening ratios of the reformulated queries?
+---------------------------------------------------------------------------------------------
+```
+java -jar rack-exec.jar -K 10 -task evaluateQE -resultFile ./EMSE2018-Dataset/RACK-Suggested-API-Classes.txt
+```
+
+This commands reports query improvement, worsening, preserved ratios and mean rank differences with the initial queries.
+
+
 Please cite our work as
-------------------------------------------------
+------------------------------------------------------------
 ```
 @INPROCEEDINGS{saner2016masud,
 author={Rahman, M. M. and Roy, C. K. and Lo, D.},
