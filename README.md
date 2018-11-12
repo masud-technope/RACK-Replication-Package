@@ -13,8 +13,12 @@ Experiments using 175 code search queries randomly chosen from three Java tutori
 Reformulations using our suggested API classes improve 64% of the natural language queries and their overall accuracy improves by 19%.
 Comparisons with three state-of-the-art techniques demonstrate that RACK outperforms them in the query reformulation by a statistically significant margin. Investigation using three web/code search engines shows that our technique can significantly improve their results in the context of code search.
 
-Accepted Papers (2)
+Accepted Papers (3)
 -----------------------------------------
+```
+M. Masudur Rahman and C.K. Roy and David Lo, "Automatic Reformulation of Query for Code Search using 
+Crowdsourced Knowledge", Journal of Empirical Software Engineering (EMSE), 52 pp, (to appear)
+```
 ```
 M. Masudur Rahman, C. K. Roy and David Lo, "RACK: Automatic API Recommendation using Crowdsourced Knowledge", 
 In Proceeding of The 23rd IEEE International Conference on Software Analysis, Evolution, and Reengineering 
