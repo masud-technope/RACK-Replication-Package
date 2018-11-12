@@ -16,16 +16,16 @@ Comparisons with three state-of-the-art techniques demonstrate that RACK outperf
 Accepted Papers (3)
 -----------------------------------------
 ```
-M. Masudur Rahman and C.K. Roy and David Lo, "Automatic Reformulation of Query for Code Search using 
+M. Masudur Rahman, Chanchal K. Roy and David Lo, "Automatic Reformulation of Query for Code Search using 
 Crowdsourced Knowledge", Journal of Empirical Software Engineering (EMSE), 52 pp, (to appear)
 ```
 ```
-M. Masudur Rahman, C. K. Roy and David Lo, "RACK: Automatic API Recommendation using Crowdsourced Knowledge", 
+M. Masudur Rahman, Chanchal K. Roy and David Lo, "RACK: Automatic API Recommendation using Crowdsourced Knowledge", 
 In Proceeding of The 23rd IEEE International Conference on Software Analysis, Evolution, and Reengineering 
 (SANER 2016), pp. 349--359, Osaka, Japan, March 2016
 ```
 ```
-M. Masudur Rahman and C. K. Roy and David Lo, "RACK: Code Search in the IDE using Crowdsourced Knowledge", 
+M. Masudur Rahman, Chanchal K. Roy and David Lo, "RACK: Code Search in the IDE using Crowdsourced Knowledge", 
 In Proceeding of The 39th International Conference on Software Engineering (ICSE 2017), 
 pp. 51--54, Buenos Aires, Argentina, May, 2017
 ```
@@ -142,6 +142,15 @@ This commands reports query improvement, worsening, preserved ratios and mean ra
 
 Please cite our work as
 ------------------------------------------------------------
+```
+@INPROCEEDINGS{emse2018masud,
+author={Rahman, M. M. and Roy, C. K. and Lo, D.},
+booktitle={EMSE}, 
+title={Automatic Reformulation of Query for Code Search using Crowdsourced Knowledge},
+year={2018},
+pages={to appear} 
+}
+```
 ```
 @INPROCEEDINGS{saner2016masud,
 author={Rahman, M. M. and Roy, C. K. and Lo, D.},
