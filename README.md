@@ -9,8 +9,7 @@ Experiments using 175 code search queries randomly chosen from three Java tutori
 Accepted Papers (3)
 -----------------------------------------
 ```
-M. Masudur Rahman, Chanchal K. Roy and David Lo, "Automatic Reformulation of Query for Code Search using 
-Crowdsourced Knowledge", Journal of Empirical Software Engineering (EMSE), 56 pp, (to appear)
+M. Masudur Rahman, Chanchal K. Roy and David Lo, "Automatic Query Reformulation for Code Search using Crowdsourced Knowledge", Journal of Empirical Software Engineering (EMSE), 56 pp.
 ```
 **Download this paper:**  [<img src="http://homepage.usask.ca/~masud.rahman/img/pdf.png"
      alt="PDF" heigh="16px" width="16px" />](https://doi.org/10.1007/s10664-018-9671-0)
