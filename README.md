@@ -1,6 +1,5 @@
-RACK-Replication-Package
-====================================================
-Replication package of RACK: Automatic Query Reformulation for Code Search using Crowdsourced Knowledge
+Automatic Query Reformulation for Code Search using Crowdsourced Knowledge
+==================================================== 
 
 
 **Abstract:** Traditional code search engines (e.g., Krugle) often do not perform well with natural language queries. They mostly apply keyword matching between query and source code. Hence, they need carefully designed queries containing references to relevant APIs for the code search. Unfortunately, preparing an effective search query is not only challenging but also time-consuming for the developers according to existing studies. In this article, we propose a novel query reformulation technique--RACK--that suggests
