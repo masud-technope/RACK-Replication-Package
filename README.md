@@ -175,7 +175,7 @@ pages={51--54}
      alt="PDF" heigh="16px" width="16px" />](http://homepage.usask.ca/~masud.rahman/papers/masud-ICSE2017.pdf)
      
 --------------------------------------------
-Please contact **Masud Rahman** (masud.rahman@usask.ca) or create a new issue for further information.
+Please contact **Masud Rahman** (masud.rahman@usask.ca) or [create a new issue](https://github.com/masud-technope/RACK-Replication-Package/issues/new) for further information.
 
 
 
