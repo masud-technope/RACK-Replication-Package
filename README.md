@@ -3,32 +3,32 @@ RACK-Replication-Package
 Replication package of RACK: Automatic Query Reformulation for Code Search using Crowdsourced Knowledge
 
 
-Abstract
--------------------------------------------
-Traditional code search engines (e.g., Krugle) often do not perform well with natural language queries. They mostly apply keyword matching between query and source code. Hence, they need carefully designed queries containing references to relevant APIs for the code search. 
-Unfortunately, preparing an effective search query is not only challenging but also time-consuming for the developers according to existing studies.
-In this article, we propose a novel query reformulation technique--RACK--that suggests
+**Abstract:** Traditional code search engines (e.g., Krugle) often do not perform well with natural language queries. They mostly apply keyword matching between query and source code. Hence, they need carefully designed queries containing references to relevant APIs for the code search. Unfortunately, preparing an effective search query is not only challenging but also time-consuming for the developers according to existing studies. In this article, we propose a novel query reformulation technique--RACK--that suggests
 a list of relevant API classes for a natural language query intended for code search. Our technique offers such suggestions by exploiting keyword-API associations from the questions and answers of Stack Overflow (i.e., crowdsourced knowledge). We first motivate our idea using an exploratory study with 19 standard Java API packages and 344K Java related posts from Stack Overflow.
-Experiments using 175 code search queries randomly chosen from three Java tutorial sites show that our technique recommends correct API classes within the Top-10 results for 83% of the queries, with 46% mean average precision and 54% recall, which are 66%, 79% and 87% higher respectively than that of the state-of-the-art. 
-Reformulations using our suggested API classes improve 64% of the natural language queries and their overall accuracy improves by 19%.
-Comparisons with three state-of-the-art techniques demonstrate that RACK outperforms them in the query reformulation by a statistically significant margin. Investigation using three web/code search engines shows that our technique can significantly improve their results in the context of code search.
+Experiments using 175 code search queries randomly chosen from three Java tutorial sites show that our technique recommends correct API classes within the Top-10 results for 83% of the queries, with 46% mean average precision and 54% recall, which are 66%, 79% and 87% higher respectively than that of the state-of-the-art. Reformulations using our suggested API classes improve 64% of the natural language queries and their overall accuracy improves by 19%. Comparisons with three state-of-the-art techniques demonstrate that RACK outperforms them in the query reformulation by a statistically significant margin. Investigation using three web/code search engines shows that our technique can significantly improve their results in the context of code search.
 
 Accepted Papers (3)
 -----------------------------------------
 ```
 M. Masudur Rahman, Chanchal K. Roy and David Lo, "Automatic Reformulation of Query for Code Search using 
-Crowdsourced Knowledge", Journal of Empirical Software Engineering (EMSE), 52 pp, (to appear)
+Crowdsourced Knowledge", Journal of Empirical Software Engineering (EMSE), 56 pp, (to appear)
 ```
+**Download this paper:**  [<img src="http://homepage.usask.ca/~masud.rahman/img/pdf.png"
+     alt="PDF" heigh="16px" width="16px" />](https://doi.org/10.1007/s10664-018-9671-0)
 ```
 M. Masudur Rahman, Chanchal K. Roy and David Lo, "RACK: Automatic API Recommendation using Crowdsourced Knowledge", 
 In Proceeding of The 23rd IEEE International Conference on Software Analysis, Evolution, and Reengineering 
 (SANER 2016), pp. 349--359, Osaka, Japan, March 2016
 ```
+**Download this paper:**  [<img src="http://homepage.usask.ca/~masud.rahman/img/pdf.png"
+     alt="PDF" heigh="16px" width="16px" />](http://homepage.usask.ca/~masud.rahman/papers/masud-SANER2016.pdf)
 ```
 M. Masudur Rahman, Chanchal K. Roy and David Lo, "RACK: Code Search in the IDE using Crowdsourced Knowledge", 
 In Proceeding of The 39th International Conference on Software Engineering (ICSE 2017), 
 pp. 51--54, Buenos Aires, Argentina, May, 2017
 ```
+**Download this paper:**  [<img src="http://homepage.usask.ca/~masud.rahman/img/pdf.png"
+     alt="PDF" heigh="16px" width="16px" />](http://homepage.usask.ca/~masud.rahman/papers/masud-ICSE2017.pdf)
 
 Materials Included
 ----------------------------------------
@@ -148,9 +148,11 @@ author={Rahman, M. M. and Roy, C. K. and Lo, D.},
 booktitle={EMSE}, 
 title={Automatic Reformulation of Query for Code Search using Crowdsourced Knowledge},
 year={2018},
-pages={to appear} 
+pages={1--56} 
 }
 ```
+**Download this paper:**  [<img src="http://homepage.usask.ca/~masud.rahman/img/pdf.png"
+     alt="PDF" heigh="16px" width="16px" />](https://doi.org/10.1007/s10664-018-9671-0)
 ```
 @INPROCEEDINGS{saner2016masud,
 author={Rahman, M. M. and Roy, C. K. and Lo, D.},
@@ -159,6 +161,8 @@ year={2016},
 pages={349--359} 
 }
 ```
+**Download this paper:**  [<img src="http://homepage.usask.ca/~masud.rahman/img/pdf.png"
+     alt="PDF" heigh="16px" width="16px" />](http://homepage.usask.ca/~masud.rahman/papers/masud-SANER2016.pdf)
 ```
 @INPROCEEDINGS{icse2017masud,
 author={Rahman, M. M. and Roy, C. K. and Lo, D.},
@@ -167,6 +171,9 @@ year={2017},
 pages={51--54} 
 }
 ```
+**Download this paper:**  [<img src="http://homepage.usask.ca/~masud.rahman/img/pdf.png"
+     alt="PDF" heigh="16px" width="16px" />](http://homepage.usask.ca/~masud.rahman/papers/masud-ICSE2017.pdf)
+     
 --------------------------------------------
 Please contact **Masud Rahman** (masud.rahman@usask.ca) or create a new issue for further information.
 
