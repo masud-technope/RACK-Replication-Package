@@ -38,6 +38,7 @@ Materials Included
 
 - ```rack-exec``` is the functional prototype of RACK, our proposed query reformulation technique. The '0.0.0' version is deprecated (SANER 2016 version). 
 We also include ```rack-running-snapshot``` for RACK.
+- [**```SOURCE CODE``` of RACK can be found here**](https://github.com/masud-technope/RACK-Server). Go ahead and extend from here.
 - ```database/``` contains the keyword--API database constructed from 344K Java related questions and answers of Stack Overflow. 
 Originally, we used MSSQL; but we provide SQLite database for the sake of portability. 
 Unfortunately, the same queries are providing slightly different results with SQLite.
