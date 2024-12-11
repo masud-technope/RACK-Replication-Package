@@ -182,7 +182,7 @@ pages={51--54}
 Something not working as expected?
 ------------------------------------
 
-Please contact **Masud Rahman** (masud.rahman@usask.ca) or [create a new issue](https://github.com/masud-technope/RACK-Replication-Package/issues/new) for further information.
+Please contact **Masud Rahman** (masud.rahman@dal.ca) or [create a new issue](https://github.com/masud-technope/RACK-Replication-Package/issues/new) for further information.
 
 
 
